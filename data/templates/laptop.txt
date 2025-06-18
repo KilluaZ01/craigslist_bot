@@ -1,0 +1,11 @@
+Title: Samsung S24
+Description: Gently used Samsung no scratches, fully functional.
+Postal Code: 94103
+Location: Kathmandu
+Make: Samsung
+Size: 6.4 inch
+Condition: 8
+Price: 50
+Model: S24
+Dimensions: 24 x 15 x 0.7 cm
+Language: French

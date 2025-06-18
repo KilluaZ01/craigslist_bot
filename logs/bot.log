@@ -1,0 +1,98 @@
+2025-06-18 12:21:18,369 - INFO - Craigslist Automation Bot started
+2025-06-18 12:21:18,440 - INFO - ====== WebDriver manager ======
+2025-06-18 12:21:18,588 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:21:18,923 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:21:19,182 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 12:21:33,968 - ERROR - Unexpected Gemini API response format: Expecting value: line 1 column 1 (char 0)
+2025-06-18 12:21:33,969 - INFO - Ad content updated with rewritten text
+2025-06-18 12:23:55,112 - INFO - Craigslist Automation Bot started
+2025-06-18 12:23:55,182 - INFO - ====== WebDriver manager ======
+2025-06-18 12:23:55,310 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:23:55,701 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:23:56,109 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 12:24:01,547 - ERROR - Error rewriting ad with Gemini: Expecting value: line 1 column 1 (char 0)
+2025-06-18 12:24:01,547 - INFO - Retrying Gemini API call (1/3)
+2025-06-18 12:24:05,012 - ERROR - Error rewriting ad with Gemini: Expecting value: line 1 column 1 (char 0)
+2025-06-18 12:24:05,013 - INFO - Retrying Gemini API call (2/3)
+2025-06-18 12:24:09,571 - ERROR - Error rewriting ad with Gemini: Expecting value: line 1 column 1 (char 0)
+2025-06-18 12:24:09,572 - INFO - Retrying Gemini API call (3/3)
+2025-06-18 12:24:16,073 - ERROR - Error rewriting ad with Gemini: Expecting value: line 1 column 1 (char 0)
+2025-06-18 12:24:16,073 - ERROR - Max retries reached, returning original content
+2025-06-18 12:24:16,074 - INFO - Ad content updated with rewritten text
+2025-06-18 12:26:15,707 - INFO - Browser closed
+2025-06-18 12:28:43,049 - INFO - Craigslist Automation Bot started
+2025-06-18 12:28:43,140 - INFO - ====== WebDriver manager ======
+2025-06-18 12:28:43,283 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:28:43,658 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:28:43,966 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 12:28:47,266 - INFO - Browser closed
+2025-06-18 12:31:48,665 - INFO - Craigslist Automation Bot started
+2025-06-18 12:31:48,703 - INFO - ====== WebDriver manager ======
+2025-06-18 12:31:48,795 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:31:49,132 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:31:49,359 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 12:31:52,998 - ERROR - Error rewriting ad with Gemini: Expecting value: line 1 column 1 (char 0)
+2025-06-18 12:31:52,999 - INFO - Retrying Gemini API call (1/3)
+2025-06-18 12:31:56,583 - ERROR - Error rewriting ad with Gemini: Expecting value: line 1 column 1 (char 0)
+2025-06-18 12:31:56,583 - INFO - Retrying Gemini API call (2/3)
+2025-06-18 12:32:01,083 - ERROR - Error rewriting ad with Gemini: Expecting value: line 1 column 1 (char 0)
+2025-06-18 12:32:01,083 - INFO - Retrying Gemini API call (3/3)
+2025-06-18 12:32:07,745 - ERROR - Error rewriting ad with Gemini: Expecting value: line 1 column 1 (char 0)
+2025-06-18 12:32:07,746 - ERROR - Max retries reached, returning original content
+2025-06-18 12:32:07,748 - INFO - Ad content updated with rewritten text
+2025-06-18 12:32:26,511 - INFO - Browser closed
+2025-06-18 12:37:33,654 - INFO - Craigslist Automation Bot started
+2025-06-18 12:37:33,694 - INFO - ====== WebDriver manager ======
+2025-06-18 12:37:33,790 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:37:34,029 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:37:34,243 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 12:38:36,967 - INFO - Accounts saved successfully
+2025-06-18 12:38:36,968 - INFO - Added account: raiarik97@gmail.com
+2025-06-18 12:38:59,010 - INFO - Accounts saved successfully
+2025-06-18 12:38:59,011 - INFO - Added account: seleniumtesting@gmail.com
+2025-06-18 12:42:08,244 - INFO - Craigslist Automation Bot started
+2025-06-18 12:42:08,281 - INFO - ====== WebDriver manager ======
+2025-06-18 12:42:08,357 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:42:08,743 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:42:09,051 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 12:42:09,634 - INFO - Browser closed
+2025-06-18 12:42:17,560 - INFO - Craigslist Automation Bot started
+2025-06-18 12:42:17,599 - INFO - ====== WebDriver manager ======
+2025-06-18 12:42:17,676 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:42:18,062 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:42:18,371 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 12:42:18,958 - INFO - Browser closed
+2025-06-18 12:45:41,896 - INFO - Craigslist Automation Bot started
+2025-06-18 12:45:41,933 - INFO - ====== WebDriver manager ======
+2025-06-18 12:45:42,006 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:45:42,354 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:45:42,662 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 12:45:58,083 - INFO - Accounts saved successfully
+2025-06-18 12:48:10,752 - INFO - Craigslist Automation Bot started
+2025-06-18 12:48:10,789 - INFO - ====== WebDriver manager ======
+2025-06-18 12:48:10,866 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:48:11,196 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:48:11,430 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 12:53:57,823 - INFO - Craigslist Automation Bot started
+2025-06-18 12:53:57,866 - INFO - ====== WebDriver manager ======
+2025-06-18 12:53:57,946 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:53:58,282 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:53:58,590 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 12:54:45,219 - INFO - Craigslist Automation Bot started
+2025-06-18 12:54:45,255 - INFO - ====== WebDriver manager ======
+2025-06-18 12:54:45,333 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:54:45,695 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:54:46,003 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 13:02:27,044 - INFO - Browser closed
+2025-06-18 13:02:30,427 - INFO - Craigslist Automation Bot started
+2025-06-18 13:02:30,466 - INFO - ====== WebDriver manager ======
+2025-06-18 13:02:30,539 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:02:30,902 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:02:31,210 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 13:08:11,572 - INFO - Browser closed
+2025-06-18 13:09:54,878 - INFO - Craigslist Automation Bot started
+2025-06-18 13:09:54,917 - INFO - ====== WebDriver manager ======
+2025-06-18 13:09:54,994 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:09:55,325 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:09:55,632 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 13:13:43,711 - INFO - Browser closed
