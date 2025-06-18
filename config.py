@@ -1,6 +1,6 @@
-CHROMEDRIVER_PATH = '/usr/local/bin/chromedriver'
-USER_DATA_DIR = "/home/killuaz01/selenium_profiles/craigslist"
+CHROMEDRIVER_PATH = ''       # Add Chrome Driver Path Here
+USER_DATA_DIR = ""      # Add Chrome Profile Here
 PROFILE_DIR = "Default"
 
-EMAIL = "raiarik97@gmail.com"
-PASSWORD = "Hisokamorrow@1"
+EMAIL = ""      # Add Email Here
+PASSWORD = ""       # Add Password Here
