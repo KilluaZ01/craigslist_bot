@@ -42,7 +42,7 @@ class AdRewriter:
             prompt = (
                 f"Rewrite the following Craigslist ad title and description to keep the same meaning and tone but make it unique. "
                 f"Return the response as a JSON object with only 'title' and 'description' fields, enclosed in triple backticks.\n"
-                f"```\n{{ \"title\": \"New Title\", \"description\": \"New Description\" }}\n```\n\n"
+                f"```json\n{{ \"title\": \"New Title\", \"description\": \"New Description\" }}\n```\n\n"
                 f"Title: {title}\nDescription: {description}"
             )
 
@@ -61,9 +61,10 @@ class AdRewriter:
             response_json = response.json()
             self.logger.debug(f"Gemini API response: {json.dumps(response_json, indent=2)}")
 
-            if 'candidates' not in response_json or not response_json['candidates']:
-                self.logger.error("No candidates in Gemini API response")
-                raise KeyError("Missing candidates")
+            # Check if response contains valid content
+            if not response_json.get('candidates') or not response_json['candidates'][0].get('content', {}).get('parts'):
+                self.logger.error("Invalid response structure from Gemini API")
+                raise ValueError("Invalid response structure")
 
             rewritten_text = response_json['candidates'][0]['content']['parts'][0]['text']
             self.logger.debug(f"Raw rewritten text: {rewritten_text}")
@@ -72,9 +73,23 @@ class AdRewriter:
                 self.logger.error("Empty rewritten text received")
                 raise ValueError("Empty response text")
 
-            # Clean up triple backticks if present
-            cleaned_text = rewritten_text.strip().strip('```').strip()
-            rewritten_json = json.loads(cleaned_text)
+            # Try to find JSON in the response (handles cases where response might include other text)
+            json_start = rewritten_text.find('{')
+            json_end = rewritten_text.rfind('}') + 1
+            if json_start == -1 or json_end == 0:
+                self.logger.error("No JSON found in response")
+                raise ValueError("No JSON found in response")
+
+            json_str = rewritten_text[json_start:json_end]
+            self.logger.debug(f"Extracted JSON: {json_str}")
+
+            try:
+                rewritten_json = json.loads(json_str)
+            except json.JSONDecodeError as e:
+                # Try cleaning up common issues
+                json_str = json_str.strip().strip('```').strip()
+                rewritten_json = json.loads(json_str)
+
             if not isinstance(rewritten_json, dict) or 'title' not in rewritten_json or 'description' not in rewritten_json:
                 self.logger.error("Invalid JSON structure in rewritten text")
                 raise ValueError("Missing title or description in JSON")

@@ -19,7 +19,10 @@ class TimingUtils:
             self.logger.error(f"Error loading delays: {str(e)}")
             return {'min_wait': 2, 'max_wait': 5}
 
-    def random_delay(self):
-        delay = random.uniform(self.delays['min_wait'], self.delays['max_wait'])
+    def random_delay(self, min_wait=None, max_wait=None):
+        """Apply a random delay between min_wait and max_wait seconds."""
+        min_delay = min_wait if min_wait is not None else self.delays['min_wait']
+        max_delay = max_wait if max_wait is not None else self.delays['max_wait']
+        delay = random.uniform(min_delay, max_delay)
         self.logger.debug(f"Applying random delay of {delay:.2f} seconds")
         time.sleep(delay)

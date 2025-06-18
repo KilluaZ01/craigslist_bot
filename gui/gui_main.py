@@ -1,4 +1,5 @@
 import tkinter as tk
+from tkinter import messagebox
 from gui.account_manager import AccountManager
 from gui.ad_config import AdConfig
 from gui.log_console import LogConsole
@@ -28,23 +29,82 @@ class CraigslistBotGUI:
         tk.Button(self.control_frame, text="Rewrite Ad", command=self.rewrite_ad, bg="#444", fg="white", width=15).pack(side="left", padx=10)
         tk.Button(self.control_frame, text="Post Ad", command=self.post_ad, bg="#00aa00", fg="white", width=15).pack(side="left", padx=10)
 
+        # Perform login on initialization
+        self.login()
+
+    def login(self):
+        """Perform login using selected account."""
+        selected_account = self.account_manager.selected_account.get()
+        if selected_account == "No accounts added":
+            self.log_console.insert("[ERROR] No account selected for login\n")
+            messagebox.showerror("Error", "Please add an account first")
+            return False
+        self.log_console.insert(f"[INFO] Logging in with account: {selected_account}\n")
+        success = self.bot.login(email=selected_account)
+        if success:
+            self.log_console.insert(f"[INFO] Successfully logged in with account: {selected_account}\n")
+            return True
+        else:
+            self.log_console.insert(f"[ERROR] Failed to log in with account: {selected_account}\n")
+            messagebox.showerror("Error", f"Failed to log in with account: {selected_account}")
+            return False
+
     def rewrite_ad(self):
         """Rewrite ad using Gemini API."""
         title = self.ad_config.title_entry.get()
         description = self.ad_config.description_text.get("1.0", tk.END).strip()
-        new_title, new_description = self.rewriter.rewrite_ad(title, description)
-        self.ad_config.title_entry.delete(0, tk.END)
-        self.ad_config.title_entry.insert(0, new_title)
-        self.ad_config.description_text.delete("1.0", tk.END)
-        self.ad_config.description_text.insert(tk.END, new_description)
-        self.log_console.insert(f"[INFO] Ad content updated with rewritten text\n")
+        
+        # Check if we have content to rewrite
+        if not title.strip() and not description.strip():
+            self.log_console.insert("[ERROR] No title or description to rewrite\n")
+            return
+        
+        # Show original content in console
+        self.log_console.insert(f"[INFO] Original Title: {title}\n")
+        self.log_console.insert(f"[INFO] Original Description: {description}\n")
+        self.log_console.insert("[INFO] Rewriting ad content...\n")
+        
+        # Check if API key is configured
+        if not self.rewriter.api_key:
+            self.log_console.insert("[ERROR] No Gemini API key configured\n")
+            return
+        
+        try:
+            # Call the rewrite_ad method on the AdRewriter instance
+            new_title, new_description = self.rewriter.rewrite_ad(title, description)
+            
+            # Check if content was actually rewritten
+            if new_title == title and new_description == description:
+                self.log_console.insert("[WARNING] Content was not rewritten - API may have failed\n")
+                self.log_console.insert("[INFO] Check your API key and internet connection\n")
+            else:
+                self.log_console.insert("[SUCCESS] Content successfully rewritten!\n")
+            
+            # Show rewritten content in console
+            self.log_console.insert(f"[SUCCESS] New Title: {new_title}\n")
+            self.log_console.insert(f"[SUCCESS] New Description: {new_description}\n")
+            
+            # Update the GUI fields
+            self.ad_config.title_entry.delete(0, tk.END)
+            self.ad_config.title_entry.insert(0, new_title)
+            self.ad_config.description_text.delete("1.0", tk.END)
+            self.ad_config.description_text.insert(tk.END, new_description)
+            
+            self.log_console.insert("[INFO] Ad content updated in GUI\n")
+        
+        except Exception as e:
+            self.log_console.insert(f"[ERROR] Exception during rewrite: {str(e)}\n")
+            
+        self.log_console.insert("=" * 50 + "\n")  # Add separator line for clarity
 
     def post_ad(self):
         """Post ad using selected account."""
         if self.account_manager.selected_account.get() == "No accounts added":
             self.log_console.insert("[ERROR] No account selected for posting\n")
-            tk.messagebox.showerror("Error", "Please add an account first")
+            messagebox.showerror("Error", "Please add an account first")
             return
+        if not self.bot.login(email=self.account_manager.selected_account.get()):
+            return  # Stop if login fails
         ad_details = {
             "make": self.ad_config.ad_details["make"].get(),
             "model": self.ad_config.ad_details["model"].get(),
@@ -54,10 +114,10 @@ class CraigslistBotGUI:
             "language": self.ad_config.ad_details["language"].get(),
             "checkboxes": [k for k, v in self.ad_config.ad_details["checkboxes"].items() if v.get()]
         }
+        self.log_console.insert(f"[INFO] Attempting to post ad: {self.ad_config.title_entry.get()}\n")
         success = self.bot.post_ad(
             title=self.ad_config.title_entry.get(),
             description=self.ad_config.description_text.get("1.0", tk.END).strip(),
-            account_email=self.account_manager.selected_account.get(),
             category="fso",
             sub_category="96",
             postal_code=self.ad_config.postal_entry.get(),
@@ -69,6 +129,7 @@ class CraigslistBotGUI:
             self.log_console.insert(f"[✓] Ad posted successfully with account: {self.account_manager.selected_account.get()}\n")
         else:
             self.log_console.insert("[ERROR] Failed to post ad\n")
+            messagebox.showerror("Error", "Failed to post ad")
 
     def __del__(self):
         self.bot.quit()

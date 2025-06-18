@@ -20,12 +20,12 @@ class AdConfig:
         tk.Label(self.ad_frame, text="Title:", bg="#2c2c2c", fg="white").pack(anchor="w", padx=5)
         self.title_entry = ttk.Entry(self.ad_frame, width=50)
         self.title_entry.pack(fill="x", padx=5, pady=2)
-        self.title_entry.insert(0, "(NEW AD)Samsung Galaxy Tab S6 Lite - Excellent Condition")
+        self.title_entry.insert(0, "None")
 
         tk.Label(self.ad_frame, text="Description:", bg="#2c2c2c", fg="white").pack(anchor="w", padx=5)
         self.description_text = scrolledtext.ScrolledText(self.ad_frame, width=50, height=5, bg="#333", fg="white")
         self.description_text.pack(fill="x", padx=5, pady=2)
-        self.description_text.insert(tk.END, "This is a gently used Samsung Galaxy Tab S6 Lite tablet with stylus and case.\n\nPerfect for students or professionals.\nBattery is still great, no scratches, and fully functional.")
+        self.description_text.insert(tk.END, "None")
 
         # Additional fields in a grid
         fields_frame = tk.Frame(self.ad_frame, bg="#2c2c2c")
@@ -34,17 +34,17 @@ class AdConfig:
         tk.Label(fields_frame, text="Postal Code:", bg="#2c2c2c", fg="white").grid(row=0, column=0, sticky="w", padx=5)
         self.postal_entry = ttk.Entry(fields_frame, width=10)
         self.postal_entry.grid(row=0, column=1, sticky="w", padx=5)
-        self.postal_entry.insert(0, "94103")
+        self.postal_entry.insert(0, "-")
 
         tk.Label(fields_frame, text="Price:", bg="#2c2c2c", fg="white").grid(row=0, column=2, sticky="w", padx=5)
         self.price_entry = ttk.Entry(fields_frame, width=10)
         self.price_entry.grid(row=0, column=3, sticky="w", padx=5)
-        self.price_entry.insert(0, "180")
+        self.price_entry.insert(0, "0")
 
         tk.Label(fields_frame, text="Location:", bg="#2c2c2c", fg="white").grid(row=1, column=0, sticky="w", padx=5)
         self.location_entry = ttk.Entry(fields_frame, width=20)
         self.location_entry.grid(row=1, column=1, sticky="w", padx=5)
-        self.location_entry.insert(0, "Kathmandu")
+        self.location_entry.insert(0, "None")
 
         self.ad_details = {
             "make": ttk.Entry(fields_frame, width=20),

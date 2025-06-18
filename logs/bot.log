@@ -96,3 +96,322 @@
 2025-06-18 13:09:55,325 - INFO - Get LATEST chromedriver version for google-chrome
 2025-06-18 13:09:55,632 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
 2025-06-18 13:13:43,711 - INFO - Browser closed
+2025-06-18 13:47:18,590 - INFO - Craigslist Automation Bot started
+2025-06-18 13:47:18,661 - INFO - ====== WebDriver manager ======
+2025-06-18 13:47:18,800 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:47:19,194 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:47:19,502 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 13:48:29,039 - INFO - Craigslist Automation Bot started
+2025-06-18 13:48:29,110 - INFO - ====== WebDriver manager ======
+2025-06-18 13:48:29,252 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:48:34,663 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:48:34,970 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 13:50:33,673 - INFO - Craigslist Automation Bot started
+2025-06-18 13:50:33,745 - INFO - ====== WebDriver manager ======
+2025-06-18 13:50:33,892 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:50:34,681 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:50:35,187 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 13:50:50,627 - INFO - Craigslist Automation Bot started
+2025-06-18 13:50:50,699 - INFO - ====== WebDriver manager ======
+2025-06-18 13:50:50,840 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:50:51,334 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:50:51,806 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 13:51:45,677 - INFO - Craigslist Automation Bot started
+2025-06-18 13:51:45,751 - INFO - ====== WebDriver manager ======
+2025-06-18 13:51:45,893 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:51:46,249 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:51:46,557 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 14:03:50,668 - INFO - Craigslist Automation Bot started
+2025-06-18 14:03:51,794 - INFO - Attempting to log in
+2025-06-18 14:06:26,563 - INFO - Craigslist Automation Bot started
+2025-06-18 14:06:27,577 - INFO - Attempting to log in
+2025-06-18 14:07:44,387 - INFO - Craigslist Automation Bot started
+2025-06-18 14:07:45,467 - INFO - Attempting to log in
+2025-06-18 14:07:50,505 - INFO - Already logged in
+2025-06-18 14:08:16,486 - INFO - Attempting to log in
+2025-06-18 14:08:22,621 - INFO - Browser closed
+2025-06-18 14:08:25,375 - INFO - Craigslist Automation Bot started
+2025-06-18 14:08:26,479 - INFO - Attempting to log in
+2025-06-18 14:08:31,599 - INFO - Already logged in
+2025-06-18 14:08:34,437 - INFO - Attempting to log in
+2025-06-18 14:08:37,210 - INFO - Already logged in
+2025-06-18 14:08:37,210 - INFO - Attempting to post ad
+2025-06-18 14:08:37,211 - INFO - Navigating to new post form
+2025-06-18 14:08:55,936 - WARNING - Field make not found, skipping
+2025-06-18 14:08:55,967 - WARNING - Field model not found, skipping
+2025-06-18 14:08:55,997 - WARNING - Field size not found, skipping
+2025-06-18 14:08:56,028 - WARNING - Field dimensions not found, skipping
+2025-06-18 14:08:56,123 - WARNING - Field language not found, skipping
+2025-06-18 14:08:56,217 - WARNING - Condition dropdown not found, skipping
+2025-06-18 14:09:06,215 - INFO - Reached the publish page
+2025-06-18 14:09:23,280 - INFO - Attempting to log in
+2025-06-18 14:09:27,177 - INFO - Already logged in
+2025-06-18 14:09:27,177 - INFO - Attempting to post ad
+2025-06-18 14:09:27,177 - INFO - Navigating to new post form
+2025-06-18 14:09:35,909 - ERROR - Ad posting error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@type='radio' and @value='fso']"}
+  (Session info: chrome=137.0.7151.103); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5cc200afbc0a <unknown>
+#1 0x5cc2005a16e0 <unknown>
+#2 0x5cc2005f3117 <unknown>
+#3 0x5cc2005f3311 <unknown>
+#4 0x5cc200641ec4 <unknown>
+#5 0x5cc200618e5d <unknown>
+#6 0x5cc20063f2cc <unknown>
+#7 0x5cc200618c03 <unknown>
+#8 0x5cc2005e547b <unknown>
+#9 0x5cc2005e60e1 <unknown>
+#10 0x5cc200ac03bb <unknown>
+#11 0x5cc200ac42ef <unknown>
+#12 0x5cc200aa7ef9 <unknown>
+#13 0x5cc200ac4e88 <unknown>
+#14 0x5cc200a8c64f <unknown>
+#15 0x5cc200ae9278 <unknown>
+#16 0x5cc200ae9456 <unknown>
+#17 0x5cc200afaae6 <unknown>
+#18 0x7ddc96c9ca94 <unknown>
+#19 0x7ddc96d29c3c <unknown>
+
+2025-06-18 14:12:34,978 - INFO - Craigslist Automation Bot started
+2025-06-18 14:12:36,029 - INFO - Attempting to log in
+2025-06-18 14:12:41,896 - INFO - Already logged in
+2025-06-18 14:12:47,027 - INFO - Attempting to log in
+2025-06-18 14:12:51,117 - INFO - Already logged in
+2025-06-18 14:12:51,118 - INFO - Attempting to post ad
+2025-06-18 14:12:51,118 - INFO - Navigating to new post form
+2025-06-18 14:12:59,615 - ERROR - Ad posting error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@type='radio' and @value='fso']"}
+  (Session info: chrome=137.0.7151.103); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x605190b01c0a <unknown>
+#1 0x6051905a76e0 <unknown>
+#2 0x6051905f9117 <unknown>
+#3 0x6051905f9311 <unknown>
+#4 0x605190647ec4 <unknown>
+#5 0x60519061ee5d <unknown>
+#6 0x6051906452cc <unknown>
+#7 0x60519061ec03 <unknown>
+#8 0x6051905eb47b <unknown>
+#9 0x6051905ec0e1 <unknown>
+#10 0x605190ac63bb <unknown>
+#11 0x605190aca2ef <unknown>
+#12 0x605190aadef9 <unknown>
+#13 0x605190acae88 <unknown>
+#14 0x605190a9264f <unknown>
+#15 0x605190aef278 <unknown>
+#16 0x605190aef456 <unknown>
+#17 0x605190b00ae6 <unknown>
+#18 0x7a31d409ca94 <unknown>
+#19 0x7a31d4129c3c <unknown>
+
+2025-06-18 14:15:23,457 - INFO - Browser closed
+2025-06-18 14:15:39,453 - INFO - Craigslist Automation Bot started
+2025-06-18 14:15:40,587 - INFO - Attempting to log in
+2025-06-18 14:15:47,021 - INFO - Already logged in
+2025-06-18 14:15:50,706 - INFO - Attempting to log in
+2025-06-18 14:15:54,900 - INFO - Already logged in
+2025-06-18 14:15:54,901 - INFO - Attempting to post ad
+2025-06-18 14:15:54,901 - INFO - Navigating to new post form
+2025-06-18 14:16:10,123 - ERROR - Ad posting error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@type='radio' and @value='fso']"}
+  (Session info: chrome=137.0.7151.103); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ea281a9ec0a <unknown>
+#1 0x5ea2815446e0 <unknown>
+#2 0x5ea281596117 <unknown>
+#3 0x5ea281596311 <unknown>
+#4 0x5ea2815e4ec4 <unknown>
+#5 0x5ea2815bbe5d <unknown>
+#6 0x5ea2815e22cc <unknown>
+#7 0x5ea2815bbc03 <unknown>
+#8 0x5ea28158847b <unknown>
+#9 0x5ea2815890e1 <unknown>
+#10 0x5ea281a633bb <unknown>
+#11 0x5ea281a672ef <unknown>
+#12 0x5ea281a4aef9 <unknown>
+#13 0x5ea281a67e88 <unknown>
+#14 0x5ea281a2f64f <unknown>
+#15 0x5ea281a8c278 <unknown>
+#16 0x5ea281a8c456 <unknown>
+#17 0x5ea281a9dae6 <unknown>
+#18 0x7fa2bd89ca94 <unknown>
+#19 0x7fa2bd929c3c <unknown>
+
+2025-06-18 14:16:41,836 - INFO - Craigslist Automation Bot started
+2025-06-18 14:16:42,900 - INFO - Attempting to log in
+2025-06-18 14:16:48,832 - INFO - Already logged in
+2025-06-18 14:16:51,078 - INFO - Attempting to log in
+2025-06-18 14:16:55,156 - INFO - Already logged in
+2025-06-18 14:16:55,156 - INFO - Attempting to post ad
+2025-06-18 14:16:55,156 - INFO - Navigating to new post form
+2025-06-18 14:17:11,829 - ERROR - Ad posting error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@type='radio' and @value='fso']"}
+  (Session info: chrome=137.0.7151.103); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5af2b509cc0a <unknown>
+#1 0x5af2b4b426e0 <unknown>
+#2 0x5af2b4b94117 <unknown>
+#3 0x5af2b4b94311 <unknown>
+#4 0x5af2b4be2ec4 <unknown>
+#5 0x5af2b4bb9e5d <unknown>
+#6 0x5af2b4be02cc <unknown>
+#7 0x5af2b4bb9c03 <unknown>
+#8 0x5af2b4b8647b <unknown>
+#9 0x5af2b4b870e1 <unknown>
+#10 0x5af2b50613bb <unknown>
+#11 0x5af2b50652ef <unknown>
+#12 0x5af2b5048ef9 <unknown>
+#13 0x5af2b5065e88 <unknown>
+#14 0x5af2b502d64f <unknown>
+#15 0x5af2b508a278 <unknown>
+#16 0x5af2b508a456 <unknown>
+#17 0x5af2b509bae6 <unknown>
+#18 0x7d98d9a9ca94 <unknown>
+#19 0x7d98d9b29c3c <unknown>
+
+2025-06-18 14:18:00,258 - INFO - Craigslist Automation Bot started
+2025-06-18 14:18:01,344 - INFO - Attempting to log in
+2025-06-18 14:18:07,834 - INFO - Already logged in
+2025-06-18 14:18:09,177 - INFO - Attempting to log in
+2025-06-18 14:18:13,153 - INFO - Already logged in
+2025-06-18 14:18:13,154 - INFO - Attempting to post ad
+2025-06-18 14:18:13,154 - INFO - Navigating to new post form
+2025-06-18 14:18:27,129 - WARNING - Field make not found, skipping
+2025-06-18 14:18:27,159 - WARNING - Field model not found, skipping
+2025-06-18 14:18:27,189 - WARNING - Field size not found, skipping
+2025-06-18 14:18:27,219 - WARNING - Field dimensions not found, skipping
+2025-06-18 14:18:27,310 - WARNING - Field language not found, skipping
+2025-06-18 14:18:27,409 - WARNING - Condition dropdown not found, skipping
+2025-06-18 14:18:39,594 - INFO - Reached the publish page
+2025-06-18 14:19:23,818 - INFO - Attempting to log in
+2025-06-18 14:19:26,277 - INFO - Attempting to log in
+2025-06-18 14:26:33,233 - INFO - Craigslist Automation Bot started
+2025-06-18 14:26:34,338 - INFO - Attempting to log in
+2025-06-18 14:26:38,960 - INFO - Already logged in
+2025-06-18 14:27:25,299 - INFO - Attempting to log in
+2025-06-18 14:27:28,339 - INFO - Already logged in
+2025-06-18 14:27:49,847 - INFO - Craigslist Automation Bot started
+2025-06-18 14:27:51,038 - INFO - Attempting to log in
+2025-06-18 14:27:55,512 - INFO - Already logged in
+2025-06-18 14:28:05,712 - INFO - Attempting to log in
+2025-06-18 14:28:09,292 - INFO - Already logged in
+2025-06-18 14:28:09,293 - INFO - Attempting to post ad
+2025-06-18 14:28:09,293 - INFO - Navigating to new post form
+2025-06-18 14:28:22,478 - WARNING - Field make not found, skipping
+2025-06-18 14:28:22,516 - WARNING - Field model not found, skipping
+2025-06-18 14:28:22,547 - WARNING - Field size not found, skipping
+2025-06-18 14:28:22,577 - WARNING - Field dimensions not found, skipping
+2025-06-18 14:28:22,671 - WARNING - Field language not found, skipping
+2025-06-18 14:28:22,777 - WARNING - Condition dropdown not found, skipping
+2025-06-18 14:28:31,804 - INFO - Sucessfully Ad Posted!
+2025-06-18 14:29:42,579 - INFO - Craigslist Automation Bot started
+2025-06-18 14:29:43,740 - INFO - Attempting to log in
+2025-06-18 14:29:48,072 - INFO - Already logged in
+2025-06-18 14:29:50,613 - INFO - Attempting to log in
+2025-06-18 14:29:54,519 - INFO - Already logged in
+2025-06-18 14:29:54,520 - INFO - Attempting to post ad
+2025-06-18 14:29:54,520 - INFO - Navigating to new post form
+2025-06-18 14:30:07,780 - WARNING - Field make not found, skipping
+2025-06-18 14:30:07,809 - WARNING - Field model not found, skipping
+2025-06-18 14:30:07,853 - WARNING - Field size not found, skipping
+2025-06-18 14:30:07,883 - WARNING - Field dimensions not found, skipping
+2025-06-18 14:30:07,975 - WARNING - Field language not found, skipping
+2025-06-18 14:30:08,070 - WARNING - Condition dropdown not found, skipping
+2025-06-18 14:30:20,525 - INFO - Sucessfully Ad Posted!
+2025-06-18 14:30:39,019 - INFO - Attempting to log in
+2025-06-18 14:30:43,048 - INFO - Already logged in
+2025-06-18 14:30:43,049 - INFO - Attempting to post ad
+2025-06-18 14:30:43,049 - INFO - Navigating to new post form
+2025-06-18 14:30:51,734 - WARNING - Field make not found, skipping
+2025-06-18 14:30:51,765 - WARNING - Field model not found, skipping
+2025-06-18 14:30:51,796 - WARNING - Field size not found, skipping
+2025-06-18 14:30:51,826 - WARNING - Field dimensions not found, skipping
+2025-06-18 14:30:51,936 - WARNING - Field language not found, skipping
+2025-06-18 14:30:52,024 - WARNING - Condition dropdown not found, skipping
+2025-06-18 14:31:01,461 - INFO - Sucessfully Ad Posted!
+2025-06-18 14:31:33,537 - INFO - Attempting to log in
+2025-06-18 14:31:35,926 - INFO - Already logged in
+2025-06-18 14:31:35,928 - INFO - Attempting to post ad
+2025-06-18 14:31:35,928 - INFO - Navigating to new post form
+2025-06-18 14:31:43,227 - WARNING - Field make not found, skipping
+2025-06-18 14:31:43,257 - WARNING - Field model not found, skipping
+2025-06-18 14:31:43,286 - WARNING - Field size not found, skipping
+2025-06-18 14:31:43,314 - WARNING - Field dimensions not found, skipping
+2025-06-18 14:31:43,402 - WARNING - Field language not found, skipping
+2025-06-18 14:31:43,505 - WARNING - Condition dropdown not found, skipping
+2025-06-18 14:31:56,755 - INFO - Sucessfully Ad Posted!
+2025-06-18 14:34:04,479 - INFO - Craigslist Automation Bot started
+2025-06-18 14:34:05,741 - INFO - Attempting to log in
+2025-06-18 14:34:18,986 - INFO - Already logged in
+2025-06-18 14:34:34,787 - INFO - Attempting to log in
+2025-06-18 14:34:39,240 - INFO - Already logged in
+2025-06-18 14:34:39,240 - INFO - Attempting to post ad
+2025-06-18 14:34:39,241 - INFO - Navigating to new post form
+2025-06-18 14:34:51,743 - WARNING - Field make not found, skipping
+2025-06-18 14:34:51,773 - WARNING - Field model not found, skipping
+2025-06-18 14:34:51,803 - WARNING - Field size not found, skipping
+2025-06-18 14:34:51,833 - WARNING - Field dimensions not found, skipping
+2025-06-18 14:34:51,940 - WARNING - Field language not found, skipping
+2025-06-18 14:34:51,988 - WARNING - Condition dropdown not found, skipping
+2025-06-18 14:35:03,522 - INFO - Sucessfully Ad Posted!
+2025-06-18 14:36:06,092 - INFO - Craigslist Automation Bot started
+2025-06-18 14:36:07,377 - INFO - Attempting to log in
+2025-06-18 14:36:15,403 - INFO - Already logged in
+2025-06-18 14:37:03,651 - INFO - Attempting to log in
+2025-06-18 14:37:08,293 - INFO - Already logged in
+2025-06-18 14:37:08,293 - INFO - Attempting to post ad
+2025-06-18 14:37:08,293 - INFO - Navigating to new post form
+2025-06-18 14:37:22,073 - WARNING - Field make not found, skipping
+2025-06-18 14:37:22,103 - WARNING - Field model not found, skipping
+2025-06-18 14:37:22,132 - WARNING - Field size not found, skipping
+2025-06-18 14:37:22,160 - WARNING - Field dimensions not found, skipping
+2025-06-18 14:37:22,250 - WARNING - Field language not found, skipping
+2025-06-18 14:37:22,353 - WARNING - Condition dropdown not found, skipping
+2025-06-18 14:37:34,229 - INFO - Sucessfully Ad Posted!
+2025-06-18 14:38:22,708 - INFO - Craigslist Automation Bot started
+2025-06-18 14:38:23,873 - INFO - Attempting to log in
+2025-06-18 14:38:30,119 - INFO - Already logged in
+2025-06-18 14:38:40,598 - INFO - Attempting to log in
+2025-06-18 14:38:44,035 - INFO - Already logged in
+2025-06-18 14:38:44,035 - INFO - Attempting to post ad
+2025-06-18 14:38:44,036 - INFO - Navigating to new post form
+2025-06-18 14:38:57,563 - WARNING - Field make not found, skipping
+2025-06-18 14:38:57,592 - WARNING - Field model not found, skipping
+2025-06-18 14:38:57,636 - WARNING - Field size not found, skipping
+2025-06-18 14:38:57,666 - WARNING - Field dimensions not found, skipping
+2025-06-18 14:38:57,760 - WARNING - Field language not found, skipping
+2025-06-18 14:38:57,810 - WARNING - Condition dropdown not found, skipping
+2025-06-18 14:39:10,501 - INFO - Sucessfully Ad Posted!
+2025-06-18 14:43:55,086 - INFO - Craigslist Automation Bot started
+2025-06-18 14:43:56,084 - INFO - Attempting to log in
+2025-06-18 14:44:01,768 - INFO - Already logged in
+2025-06-18 14:44:23,487 - INFO - Ad rewritten successfully
+2025-06-18 14:46:12,595 - INFO - Ad rewritten successfully
+2025-06-18 14:46:52,265 - INFO - Ad rewritten successfully
+2025-06-18 14:46:55,059 - INFO - Attempting to log in
+2025-06-18 14:47:00,979 - INFO - Already logged in
+2025-06-18 14:47:00,980 - INFO - Attempting to post ad
+2025-06-18 14:47:00,980 - INFO - Navigating to new post form
+2025-06-18 14:47:13,530 - WARNING - Field make not found, skipping
+2025-06-18 14:47:13,560 - WARNING - Field model not found, skipping
+2025-06-18 14:47:13,591 - WARNING - Field size not found, skipping
+2025-06-18 14:47:13,622 - WARNING - Field dimensions not found, skipping
+2025-06-18 14:47:13,722 - WARNING - Field language not found, skipping
+2025-06-18 14:47:13,773 - WARNING - Condition dropdown not found, skipping
+2025-06-18 14:47:28,009 - INFO - Sucessfully Ad Posted!
+2025-06-18 14:48:49,191 - INFO - Browser closed
+2025-06-18 14:49:13,769 - INFO - Craigslist Automation Bot started
+2025-06-18 14:49:14,857 - INFO - Attempting to log in
+2025-06-18 14:49:18,965 - INFO - Already logged in
+2025-06-18 14:49:34,067 - INFO - Ad rewritten successfully
+2025-06-18 14:49:40,217 - INFO - Ad rewritten successfully
+2025-06-18 14:49:45,876 - INFO - Attempting to log in
+2025-06-18 14:49:51,017 - INFO - Already logged in
+2025-06-18 14:49:51,017 - INFO - Attempting to post ad
+2025-06-18 14:49:51,018 - INFO - Navigating to new post form
+2025-06-18 14:50:05,364 - WARNING - Field make not found, skipping
+2025-06-18 14:50:05,395 - WARNING - Field model not found, skipping
+2025-06-18 14:50:05,426 - WARNING - Field size not found, skipping
+2025-06-18 14:50:05,456 - WARNING - Field dimensions not found, skipping
+2025-06-18 14:50:05,551 - WARNING - Field language not found, skipping
+2025-06-18 14:50:05,602 - WARNING - Condition dropdown not found, skipping
+2025-06-18 14:50:19,461 - INFO - Sucessfully Ad Posted!
+2025-06-18 14:51:40,724 - INFO - Accounts saved successfully
+2025-06-18 14:52:22,812 - INFO - Browser closed
