@@ -4,6 +4,7 @@ import os
 import json
 import logging
 from gui.utils import create_section, add_button
+from utils.encryption import encrypt, decrypt
 
 class AccountManager:
     """Manages account selection and adding accounts."""
@@ -21,18 +22,34 @@ class AccountManager:
         try:
             if os.path.exists(accounts_file):
                 with open(accounts_file, 'r') as f:
-                    return json.load(f)
+                    accounts = json.load(f)
+                # Decrypt passwords if they are encrypted
+                for acc in accounts:
+                    if acc.get('is_encrypted', False):
+                        acc['password'] = decrypt(acc['password'])
+                        if acc.get('app_password'):
+                            acc['app_password'] = decrypt(acc['app_password'])
+                return accounts
             return []
         except Exception as e:
             self.logger.error(f"Error loading accounts: {str(e)}")
             return []
 
     def save_accounts(self):
-        """Save accounts to data/accounts.json."""
+        """Save accounts to data/accounts.json with encrypted passwords."""
         accounts_file = os.path.join(os.path.dirname(__file__), '../data/accounts.json')
         try:
+            # Create a copy of accounts with encrypted passwords
+            accounts_to_save = []
+            for acc in self.accounts:
+                acc_copy = acc.copy()
+                acc_copy['password'] = encrypt(acc['password'])
+                if acc.get('app_password'):
+                    acc_copy['app_password'] = encrypt(acc['app_password'])
+                acc_copy['is_encrypted'] = True
+                accounts_to_save.append(acc_copy)
             with open(accounts_file, 'w') as f:
-                json.dump(self.accounts, f, indent=2)
+                json.dump(accounts_to_save, f, indent=2)
             self.logger.info("Accounts saved successfully")
         except Exception as e:
             self.logger.error(f"Error saving accounts: {str(e)}")
@@ -49,7 +66,6 @@ class AccountManager:
         add_button(self.account_frame, "Add Account", self.add_account_form)
         add_button(self.account_frame, "Edit Account", self.edit_account_form)
         add_button(self.account_frame, "Delete Account", self.delete_account)
-        
 
     def edit_account_form(self):
         """Open a form to edit selected account."""
@@ -114,12 +130,11 @@ class AccountManager:
         self.account_dropdown.set(account_emails[0])
         self.log_console.insert(f"[✓] Deleted account: {selected_email}\n")
 
-
     def add_account_form(self):
-        """Open a form to add accounts."""
+        """Form to add a new account."""
         form = tk.Toplevel(self.root)
         form.title("Add Craigslist Account")
-        form.geometry("400x300")
+        form.geometry("400x400")
         form.configure(bg="#2c2c2c")
 
         tk.Label(form, text="Email (Craigslist Address/ Gmail Address):", bg="#2c2c2c", fg="white").pack(pady=(20, 5))
@@ -137,18 +152,30 @@ class AccountManager:
         def save_account():
             email = email_entry.get().strip()
             password = password_entry.get().strip()
-            app_password = app_password_entry.get()
+            app_password = app_password_entry.get().strip()
             if not email or not password:
-                messagebox.showwarning("Incomplete", "Both fields are required!")
+                messagebox.showwarning("Incomplete", "Email and password are required!")
                 return
             if any(acc['email'] == email for acc in self.accounts):
                 messagebox.showerror("Error", "Email already exists")
                 return
-            self.accounts.append({"email": email, "password": password, "app_password": app_password})
+            self.accounts.append({
+                "email": email,
+                "password": password,
+                "app_password": app_password,
+                "is_encrypted": False  # Will be set to True when saved
+            })
             self.save_accounts()
             self.account_dropdown['values'] = [acc['email'] for acc in self.accounts]
             self.account_dropdown.set(email)
-            self.log_console.insert(f"[✓] Added account: {email}\n")
+            self.log_console.insert(f"[✓] Added account: email\n")
             form.destroy()
 
         tk.Button(form, text="Save", command=save_account, bg="#00aa00", fg="white").pack(pady=15)
+
+    def get_account_credentials(self, selected_email):
+        """Return decrypted password and app password for the selected email."""
+        account = next((acc for acc in self.accounts if acc['email'].lower() == selected_email.lower()), None)
+        if account:
+            return account['password'], account.get('app_password')
+        return None, None

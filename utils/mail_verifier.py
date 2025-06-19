@@ -4,6 +4,7 @@ import re
 import time
 import os
 import json
+from utils.encryption import decrypt
 
 def get_verification_link(email_address, wait_seconds=10, retries=12):
     print(f"[*] Checking Gmail for Craigslist verification email for {email_address}...")
@@ -24,7 +25,8 @@ def get_verification_link(email_address, wait_seconds=10, retries=12):
         return None
 
     GMAIL_EMAIL = account["email"]
-    GMAIL_PASSWORD = account["app_password"]
+    # Decrypt app_password if it exists and is encrypted
+    GMAIL_PASSWORD = decrypt(account["app_password"]) if account.get("app_password") and account.get("is_encrypted", False) else account.get("app_password", "")
 
     for attempt in range(1, retries + 1):
         try:
