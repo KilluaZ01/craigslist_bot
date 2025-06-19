@@ -1828,3 +1828,222 @@ Stacktrace:
 2025-06-19 12:21:14,239 - INFO - Browser closed
 2025-06-19 12:23:16,592 - INFO - Craigslist Automation Bot started
 2025-06-19 12:23:22,050 - INFO - Browser closed
+2025-06-19 12:31:32,642 - INFO - Craigslist Automation Bot started
+2025-06-19 12:32:17,298 - INFO - Accounts saved successfully
+2025-06-19 12:32:39,080 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x59ac1b827c0a <unknown>
+#1 0x59ac1b2cd6e0 <unknown>
+#2 0x59ac1b31f117 <unknown>
+#3 0x59ac1b31f311 <unknown>
+#4 0x59ac1b36dec4 <unknown>
+#5 0x59ac1b344e5d <unknown>
+#6 0x59ac1b36b2cc <unknown>
+#7 0x59ac1b344c03 <unknown>
+#8 0x59ac1b31147b <unknown>
+#9 0x59ac1b3120e1 <unknown>
+#10 0x59ac1b7ec3bb <unknown>
+#11 0x59ac1b7f02ef <unknown>
+#12 0x59ac1b7d3ef9 <unknown>
+#13 0x59ac1b7f0e88 <unknown>
+#14 0x59ac1b7b864f <unknown>
+#15 0x59ac1b815278 <unknown>
+#16 0x59ac1b815456 <unknown>
+#17 0x59ac1b826ae6 <unknown>
+#18 0x769adc09ca94 <unknown>
+#19 0x769adc129c3c <unknown>
+
+2025-06-19 12:32:39,081 - INFO - current email = None
+2025-06-19 12:32:43,681 - INFO - [*] Email verification required...
+2025-06-19 12:32:46,662 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287596218-vgtShcWTqk69Ssq8Uv4lFxZAN4zt1m
+2025-06-19 12:33:16,259 - INFO - [*] Checking for ads to renew for raiarik97@gmail.com
+2025-06-19 12:33:18,082 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 12:33:18,083 - ERROR - [!] Error during ad renewal: Expecting value: line 1 column 1 (char 0)
+2025-06-19 12:34:03,632 - INFO - [✓] Loaded session cookies for raiarik97@gmail.com
+2025-06-19 12:34:06,803 - INFO - Extracted email: raiarik97@gmail.com
+2025-06-19 12:34:06,803 - INFO - [✓] Session valid. Logged in as raiarik97@gmail.com
+2025-06-19 12:34:06,803 - INFO - Attempting to post ad
+2025-06-19 12:34:09,560 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 12:34:09,560 - INFO - Already logged in. Proceeding to post.
+2025-06-19 12:34:51,731 - INFO - No images to upload
+2025-06-19 12:34:57,839 - INFO - Successfully Ad Posted!
+2025-06-19 12:34:57,840 - ERROR - [!] Failed to save ad details: Expecting value: line 1 column 1 (char 0)
+2025-06-19 12:35:07,852 - INFO - [*] Checking for ads to renew for raiarik97@gmail.com
+2025-06-19 12:35:09,140 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 12:35:09,141 - ERROR - [!] Error during ad renewal: Expecting value: line 1 column 1 (char 0)
+2025-06-19 12:39:18,327 - INFO - Craigslist Automation Bot started
+2025-06-19 12:39:37,863 - INFO - [✓] Loaded session cookies for raiarik97@gmail.com
+2025-06-19 12:39:53,418 - INFO - Extracted email: raiarik97@gmail.com
+2025-06-19 12:39:53,419 - INFO - [✓] Session valid. Logged in as raiarik97@gmail.com
+2025-06-19 12:40:04,903 - INFO - [✓] Loaded session cookies for raiarik97@gmail.com
+2025-06-19 12:40:08,957 - INFO - Extracted email: raiarik97@gmail.com
+2025-06-19 12:40:08,958 - INFO - [✓] Session valid. Logged in as raiarik97@gmail.com
+2025-06-19 12:40:08,958 - INFO - Attempting to post ad
+2025-06-19 12:40:11,287 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 12:40:11,287 - INFO - Already logged in. Proceeding to post.
+2025-06-19 12:40:34,542 - INFO - No images to upload
+2025-06-19 12:40:44,137 - INFO - Successfully Ad Posted!
+2025-06-19 12:40:44,137 - INFO - [*] Attempting to save ad to ads.json
+2025-06-19 12:40:44,138 - INFO - [✓] Saved ad details for 'Samsung Galaxy Tab S6 Lite - Excellent Condition' to /home/killuaz01/Desktop/mvp_tkinter_bot/craigslist_bot/core/../data/ads.json
+2025-06-19 12:41:16,232 - INFO - [*] Checking for ads to renew for raiarik97@gmail.com
+2025-06-19 12:41:17,881 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 12:41:17,882 - INFO - [*] No ads eligible for renewal.
+2025-06-19 12:42:40,570 - INFO - Craigslist Automation Bot started
+2025-06-19 12:43:03,690 - INFO - [✓] Loaded session cookies for raiarik97@gmail.com
+2025-06-19 12:43:16,213 - INFO - Extracted email: raiarik97@gmail.com
+2025-06-19 12:43:16,213 - INFO - [✓] Session valid. Logged in as raiarik97@gmail.com
+2025-06-19 12:43:16,213 - INFO - Attempting to post ad
+2025-06-19 12:43:18,877 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 12:43:18,878 - INFO - Already logged in. Proceeding to post.
+2025-06-19 12:43:36,321 - INFO - No images to upload
+2025-06-19 12:43:44,791 - INFO - Successfully Ad Posted!
+2025-06-19 12:43:44,791 - INFO - [*] Attempting to save ad to ads.json
+2025-06-19 12:43:44,792 - INFO - [✓] Saved ad details for 'Samsung Galaxy Tab S6 Lite - Excellent Condition' to /home/killuaz01/Desktop/mvp_tkinter_bot/craigslist_bot/core/../data/ads.json
+2025-06-19 12:44:03,910 - INFO - [✓] Loaded session cookies for raiarik97@gmail.com
+2025-06-19 12:44:07,302 - INFO - Extracted email: raiarik97@gmail.com
+2025-06-19 12:44:07,302 - INFO - [✓] Session valid. Logged in as raiarik97@gmail.com
+2025-06-19 12:44:07,303 - INFO - Attempting to post ad
+2025-06-19 12:44:09,909 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 12:44:09,909 - INFO - Already logged in. Proceeding to post.
+2025-06-19 12:44:26,830 - INFO - Uploading 1 images
+2025-06-19 12:44:26,986 - WARNING - Image upload failed: 'NoneType' object has no attribute 'send_keys'
+2025-06-19 12:44:35,146 - INFO - Successfully Ad Posted!
+2025-06-19 12:44:35,146 - INFO - [*] Attempting to save ad to ads.json
+2025-06-19 12:44:35,147 - INFO - [✓] Saved ad details for 'Samsung Galaxy Tab S6 Lite - Excellent Condition' to /home/killuaz01/Desktop/mvp_tkinter_bot/craigslist_bot/core/../data/ads.json
+2025-06-19 12:46:52,871 - INFO - Craigslist Automation Bot started
+2025-06-19 12:47:35,308 - INFO - Ad rewritten successfully
+2025-06-19 12:47:46,231 - INFO - [✓] Loaded session cookies for raiarik97@gmail.com
+2025-06-19 12:47:59,514 - INFO - Extracted email: raiarik97@gmail.com
+2025-06-19 12:47:59,514 - INFO - [✓] Session valid. Logged in as raiarik97@gmail.com
+2025-06-19 12:47:59,514 - INFO - Attempting to post ad
+2025-06-19 12:48:03,004 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 12:48:03,004 - INFO - Already logged in. Proceeding to post.
+2025-06-19 12:48:22,212 - INFO - Uploading 1 images
+2025-06-19 12:48:22,331 - WARNING - Image upload failed: 'NoneType' object has no attribute 'send_keys'
+2025-06-19 12:48:31,653 - INFO - Successfully Ad Posted!
+2025-06-19 12:48:31,653 - INFO - [*] Attempting to save ad to ads.json
+2025-06-19 12:48:31,654 - INFO - [✓] Saved ad details for 'Like-New Samsung Galaxy Tab S6 Lite w/Stylus & Case' to /home/killuaz01/Desktop/mvp_tkinter_bot/craigslist_bot/core/../data/ads.json
+2025-06-19 12:51:06,470 - INFO - Craigslist Automation Bot started
+2025-06-19 12:51:06,540 - INFO - ====== WebDriver manager ======
+2025-06-19 12:51:06,686 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-19 12:51:12,197 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-19 12:51:12,496 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-19 12:51:13,260 - INFO - WebDriver version 137.0.7151.119 selected
+2025-06-19 12:51:13,267 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/linux64/chromedriver-linux64.zip
+2025-06-19 12:51:13,267 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/linux64/chromedriver-linux64.zip
+2025-06-19 12:51:13,515 - INFO - Driver downloading response is 200
+2025-06-19 12:51:14,758 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-19 12:51:15,228 - INFO - Driver has been saved in cache [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119]
+2025-06-19 12:51:28,400 - INFO - [✓] Loaded session cookies for raiarik97@gmail.com
+2025-06-19 12:55:45,694 - INFO - Craigslist Automation Bot started
+2025-06-19 12:55:45,764 - INFO - ====== WebDriver manager ======
+2025-06-19 12:55:45,893 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-19 12:55:46,613 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-19 12:55:47,029 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-19 12:55:58,018 - INFO - [✓] Loaded session cookies for raiarik97@gmail.com
+2025-06-19 12:55:59,475 - INFO - Browser closed
+2025-06-19 12:56:01,318 - INFO - Craigslist Automation Bot started
+2025-06-19 12:56:01,388 - INFO - ====== WebDriver manager ======
+2025-06-19 12:56:01,513 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-19 12:56:01,876 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-19 12:56:02,185 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-19 12:56:22,504 - INFO - [✓] Loaded session cookies for raiarik97@gmail.com
+2025-06-19 12:56:38,429 - INFO - Extracted email: raiarik97@gmail.com
+2025-06-19 12:56:38,430 - INFO - [✓] Session valid. Logged in as raiarik97@gmail.com
+2025-06-19 12:56:38,430 - INFO - Attempting to post ad: Samsung Galaxy Tab S6 Lite - Excellent Condition
+2025-06-19 12:56:40,548 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 12:56:40,548 - INFO - Already logged in. Proceeding to post.
+2025-06-19 12:56:56,975 - INFO - No images to upload
+2025-06-19 12:57:05,313 - INFO - Successfully Ad Posted!
+2025-06-19 12:57:05,314 - INFO - [*] Attempting to save ad to ads.json
+2025-06-19 12:57:05,315 - INFO - [✓] Saved ad details for 'Samsung Galaxy Tab S6 Lite - Excellent Condition' to /home/killuaz01/Desktop/mvp_tkinter_bot/craigslist_bot/core/../data/ads.json
+2025-06-19 12:59:36,081 - INFO - Craigslist Automation Bot started
+2025-06-19 12:59:36,152 - INFO - ====== WebDriver manager ======
+2025-06-19 12:59:36,293 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-19 12:59:36,613 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-19 12:59:37,022 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-19 13:00:22,633 - INFO - [✓] Loaded session cookies for raiarik97@gmail.com
+2025-06-19 13:00:36,587 - INFO - Extracted email: raiarik97@gmail.com
+2025-06-19 13:00:36,587 - INFO - [✓] Session valid. Logged in as raiarik97@gmail.com
+2025-06-19 13:00:36,588 - INFO - Attempting to post ad: Samsung Galaxy Tab S6 Lite - Excellent Condition
+2025-06-19 13:00:39,127 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 13:00:39,128 - INFO - Already logged in. Proceeding to post.
+2025-06-19 13:00:59,767 - INFO - No images to upload
+2025-06-19 13:01:06,553 - INFO - Successfully Ad Posted!
+2025-06-19 13:01:06,554 - INFO - [*] Attempting to save ad to ads.json
+2025-06-19 13:01:06,555 - INFO - [✓] Saved ad details for 'Samsung Galaxy Tab S6 Lite - Excellent Condition' to /home/killuaz01/Desktop/mvp_tkinter_bot/craigslist_bot/core/../data/ads.json
+2025-06-19 13:01:06,571 - ERROR - Ad posting error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+#0 0x6160b645645a <unknown>
+#1 0x6160b5efb760 <unknown>
+#2 0x6160b5ed0140 <unknown>
+#3 0x6160b5f7b6c8 <unknown>
+#4 0x6160b5f98cc5 <unknown>
+#5 0x6160b5f72c23 <unknown>
+#6 0x6160b5f3f4a5 <unknown>
+#7 0x6160b5f40111 <unknown>
+#8 0x6160b641af1b <unknown>
+#9 0x6160b641ee19 <unknown>
+#10 0x6160b6401ac9 <unknown>
+#11 0x6160b641f9c8 <unknown>
+#12 0x6160b63e634f <unknown>
+#13 0x6160b6443a28 <unknown>
+#14 0x6160b6443c06 <unknown>
+#15 0x6160b6455336 <unknown>
+#16 0x7ae5f389ca94 <unknown>
+#17 0x7ae5f3929c3c <unknown>
+
+2025-06-19 13:05:39,420 - INFO - Craigslist Automation Bot started
+2025-06-19 13:05:39,492 - INFO - ====== WebDriver manager ======
+2025-06-19 13:05:39,634 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-19 13:05:40,045 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-19 13:05:40,354 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-19 13:06:10,704 - INFO - [✓] Loaded session cookies for raiarik97@gmail.com
+2025-06-19 13:06:22,721 - INFO - Extracted email: raiarik97@gmail.com
+2025-06-19 13:06:22,722 - INFO - [✓] Session valid. Logged in as raiarik97@gmail.com
+2025-06-19 13:06:22,722 - INFO - Attempting to post ad: Samsung Galaxy Tab S6 Lite - Excellent Condition
+2025-06-19 13:06:25,202 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 13:06:25,202 - INFO - Already logged in. Proceeding to post.
+2025-06-19 13:06:49,109 - INFO - Uploading 1 images
+2025-06-19 13:06:49,972 - INFO - [✓] Switched to classic image uploader
+2025-06-19 13:07:42,437 - INFO - [✓] Uploaded image: /home/killuaz01/Desktop/Desktop_Files/yay.png
+2025-06-19 13:11:23,682 - INFO - Craigslist Automation Bot started
+2025-06-19 13:11:23,755 - INFO - ====== WebDriver manager ======
+2025-06-19 13:11:23,896 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-19 13:11:24,228 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-19 13:11:24,536 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-19 13:12:06,681 - INFO - [✓] Loaded session cookies for raiarik97@gmail.com
+2025-06-19 13:12:19,111 - INFO - Extracted email: raiarik97@gmail.com
+2025-06-19 13:12:19,112 - INFO - [✓] Session valid. Logged in as raiarik97@gmail.com
+2025-06-19 13:12:19,112 - INFO - Attempting to post ad: Samsung S24
+2025-06-19 13:12:21,017 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 13:12:43,291 - INFO - [✓] Switched to classic image uploader
+2025-06-19 13:12:49,946 - INFO - [✓] Uploaded image: /home/killuaz01/Desktop/Desktop_Files/wallpaper.png
+2025-06-19 13:13:20,011 - ERROR - [!] Upload failed for /home/killuaz01/Desktop/Desktop_Files/wallpaper.png: Message: 
+Stacktrace:
+#0 0x61d83650f45a <unknown>
+#1 0x61d835fb4760 <unknown>
+#2 0x61d836006127 <unknown>
+#3 0x61d836006321 <unknown>
+#4 0x61d836054e94 <unknown>
+#5 0x61d83602be7d <unknown>
+#6 0x61d83605230b <unknown>
+#7 0x61d83602bc23 <unknown>
+#8 0x61d835ff84a5 <unknown>
+#9 0x61d835ff9111 <unknown>
+#10 0x61d8364d3f1b <unknown>
+#11 0x61d8364d7e19 <unknown>
+#12 0x61d8364baac9 <unknown>
+#13 0x61d8364d89c8 <unknown>
+#14 0x61d83649f34f <unknown>
+#15 0x61d8364fca28 <unknown>
+#16 0x61d8364fcc06 <unknown>
+#17 0x61d83650e336 <unknown>
+#18 0x754224a9ca94 <unknown>
+#19 0x754224b29c3c <unknown>
+
+2025-06-19 13:13:36,440 - INFO - [✓] Ad successfully posted.
+2025-06-19 13:13:36,441 - INFO - [*] Attempting to save ad to ads.json
+2025-06-19 13:13:36,442 - INFO - [✓] Saved ad details for 'Samsung S24' to /home/killuaz01/Desktop/mvp_tkinter_bot/craigslist_bot/core/../data/ads.json
