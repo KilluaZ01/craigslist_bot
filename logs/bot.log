@@ -1,417 +1,1656 @@
-2025-06-18 12:21:18,369 - INFO - Craigslist Automation Bot started
-2025-06-18 12:21:18,440 - INFO - ====== WebDriver manager ======
-2025-06-18 12:21:18,588 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:21:18,923 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:21:19,182 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 12:21:33,968 - ERROR - Unexpected Gemini API response format: Expecting value: line 1 column 1 (char 0)
-2025-06-18 12:21:33,969 - INFO - Ad content updated with rewritten text
-2025-06-18 12:23:55,112 - INFO - Craigslist Automation Bot started
-2025-06-18 12:23:55,182 - INFO - ====== WebDriver manager ======
-2025-06-18 12:23:55,310 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:23:55,701 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:23:56,109 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 12:24:01,547 - ERROR - Error rewriting ad with Gemini: Expecting value: line 1 column 1 (char 0)
-2025-06-18 12:24:01,547 - INFO - Retrying Gemini API call (1/3)
-2025-06-18 12:24:05,012 - ERROR - Error rewriting ad with Gemini: Expecting value: line 1 column 1 (char 0)
-2025-06-18 12:24:05,013 - INFO - Retrying Gemini API call (2/3)
-2025-06-18 12:24:09,571 - ERROR - Error rewriting ad with Gemini: Expecting value: line 1 column 1 (char 0)
-2025-06-18 12:24:09,572 - INFO - Retrying Gemini API call (3/3)
-2025-06-18 12:24:16,073 - ERROR - Error rewriting ad with Gemini: Expecting value: line 1 column 1 (char 0)
-2025-06-18 12:24:16,073 - ERROR - Max retries reached, returning original content
-2025-06-18 12:24:16,074 - INFO - Ad content updated with rewritten text
-2025-06-18 12:26:15,707 - INFO - Browser closed
-2025-06-18 12:28:43,049 - INFO - Craigslist Automation Bot started
-2025-06-18 12:28:43,140 - INFO - ====== WebDriver manager ======
-2025-06-18 12:28:43,283 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:28:43,658 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:28:43,966 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 12:28:47,266 - INFO - Browser closed
-2025-06-18 12:31:48,665 - INFO - Craigslist Automation Bot started
-2025-06-18 12:31:48,703 - INFO - ====== WebDriver manager ======
-2025-06-18 12:31:48,795 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:31:49,132 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:31:49,359 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 12:31:52,998 - ERROR - Error rewriting ad with Gemini: Expecting value: line 1 column 1 (char 0)
-2025-06-18 12:31:52,999 - INFO - Retrying Gemini API call (1/3)
-2025-06-18 12:31:56,583 - ERROR - Error rewriting ad with Gemini: Expecting value: line 1 column 1 (char 0)
-2025-06-18 12:31:56,583 - INFO - Retrying Gemini API call (2/3)
-2025-06-18 12:32:01,083 - ERROR - Error rewriting ad with Gemini: Expecting value: line 1 column 1 (char 0)
-2025-06-18 12:32:01,083 - INFO - Retrying Gemini API call (3/3)
-2025-06-18 12:32:07,745 - ERROR - Error rewriting ad with Gemini: Expecting value: line 1 column 1 (char 0)
-2025-06-18 12:32:07,746 - ERROR - Max retries reached, returning original content
-2025-06-18 12:32:07,748 - INFO - Ad content updated with rewritten text
-2025-06-18 12:32:26,511 - INFO - Browser closed
-2025-06-18 12:37:33,654 - INFO - Craigslist Automation Bot started
-2025-06-18 12:37:33,694 - INFO - ====== WebDriver manager ======
-2025-06-18 12:37:33,790 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:37:34,029 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:37:34,243 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 12:38:36,967 - INFO - Accounts saved successfully
-2025-06-18 12:38:36,968 - INFO - Added account: raiarik97@gmail.com
-2025-06-18 12:38:59,010 - INFO - Accounts saved successfully
-2025-06-18 12:38:59,011 - INFO - Added account: seleniumtesting@gmail.com
-2025-06-18 12:42:08,244 - INFO - Craigslist Automation Bot started
-2025-06-18 12:42:08,281 - INFO - ====== WebDriver manager ======
-2025-06-18 12:42:08,357 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:42:08,743 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:42:09,051 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 12:42:09,634 - INFO - Browser closed
-2025-06-18 12:42:17,560 - INFO - Craigslist Automation Bot started
-2025-06-18 12:42:17,599 - INFO - ====== WebDriver manager ======
-2025-06-18 12:42:17,676 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:42:18,062 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:42:18,371 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 12:42:18,958 - INFO - Browser closed
-2025-06-18 12:45:41,896 - INFO - Craigslist Automation Bot started
-2025-06-18 12:45:41,933 - INFO - ====== WebDriver manager ======
-2025-06-18 12:45:42,006 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:45:42,354 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:45:42,662 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 12:45:58,083 - INFO - Accounts saved successfully
-2025-06-18 12:48:10,752 - INFO - Craigslist Automation Bot started
-2025-06-18 12:48:10,789 - INFO - ====== WebDriver manager ======
-2025-06-18 12:48:10,866 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:48:11,196 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:48:11,430 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 12:53:57,823 - INFO - Craigslist Automation Bot started
-2025-06-18 12:53:57,866 - INFO - ====== WebDriver manager ======
-2025-06-18 12:53:57,946 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:53:58,282 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:53:58,590 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 12:54:45,219 - INFO - Craigslist Automation Bot started
-2025-06-18 12:54:45,255 - INFO - ====== WebDriver manager ======
-2025-06-18 12:54:45,333 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:54:45,695 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 12:54:46,003 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 13:02:27,044 - INFO - Browser closed
-2025-06-18 13:02:30,427 - INFO - Craigslist Automation Bot started
-2025-06-18 13:02:30,466 - INFO - ====== WebDriver manager ======
-2025-06-18 13:02:30,539 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 13:02:30,902 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 13:02:31,210 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 13:08:11,572 - INFO - Browser closed
-2025-06-18 13:09:54,878 - INFO - Craigslist Automation Bot started
-2025-06-18 13:09:54,917 - INFO - ====== WebDriver manager ======
-2025-06-18 13:09:54,994 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 13:09:55,325 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 13:09:55,632 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 13:13:43,711 - INFO - Browser closed
-2025-06-18 13:47:18,590 - INFO - Craigslist Automation Bot started
-2025-06-18 13:47:18,661 - INFO - ====== WebDriver manager ======
-2025-06-18 13:47:18,800 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 13:47:19,194 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 13:47:19,502 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 13:48:29,039 - INFO - Craigslist Automation Bot started
-2025-06-18 13:48:29,110 - INFO - ====== WebDriver manager ======
-2025-06-18 13:48:29,252 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 13:48:34,663 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 13:48:34,970 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 13:50:33,673 - INFO - Craigslist Automation Bot started
-2025-06-18 13:50:33,745 - INFO - ====== WebDriver manager ======
-2025-06-18 13:50:33,892 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 13:50:34,681 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 13:50:35,187 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 13:50:50,627 - INFO - Craigslist Automation Bot started
-2025-06-18 13:50:50,699 - INFO - ====== WebDriver manager ======
-2025-06-18 13:50:50,840 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 13:50:51,334 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 13:50:51,806 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 13:51:45,677 - INFO - Craigslist Automation Bot started
-2025-06-18 13:51:45,751 - INFO - ====== WebDriver manager ======
-2025-06-18 13:51:45,893 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 13:51:46,249 - INFO - Get LATEST chromedriver version for google-chrome
-2025-06-18 13:51:46,557 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
-2025-06-18 14:03:50,668 - INFO - Craigslist Automation Bot started
-2025-06-18 14:03:51,794 - INFO - Attempting to log in
-2025-06-18 14:06:26,563 - INFO - Craigslist Automation Bot started
-2025-06-18 14:06:27,577 - INFO - Attempting to log in
-2025-06-18 14:07:44,387 - INFO - Craigslist Automation Bot started
-2025-06-18 14:07:45,467 - INFO - Attempting to log in
-2025-06-18 14:07:50,505 - INFO - Already logged in
-2025-06-18 14:08:16,486 - INFO - Attempting to log in
-2025-06-18 14:08:22,621 - INFO - Browser closed
-2025-06-18 14:08:25,375 - INFO - Craigslist Automation Bot started
-2025-06-18 14:08:26,479 - INFO - Attempting to log in
-2025-06-18 14:08:31,599 - INFO - Already logged in
-2025-06-18 14:08:34,437 - INFO - Attempting to log in
-2025-06-18 14:08:37,210 - INFO - Already logged in
-2025-06-18 14:08:37,210 - INFO - Attempting to post ad
-2025-06-18 14:08:37,211 - INFO - Navigating to new post form
-2025-06-18 14:08:55,936 - WARNING - Field make not found, skipping
-2025-06-18 14:08:55,967 - WARNING - Field model not found, skipping
-2025-06-18 14:08:55,997 - WARNING - Field size not found, skipping
-2025-06-18 14:08:56,028 - WARNING - Field dimensions not found, skipping
-2025-06-18 14:08:56,123 - WARNING - Field language not found, skipping
-2025-06-18 14:08:56,217 - WARNING - Condition dropdown not found, skipping
-2025-06-18 14:09:06,215 - INFO - Reached the publish page
-2025-06-18 14:09:23,280 - INFO - Attempting to log in
-2025-06-18 14:09:27,177 - INFO - Already logged in
-2025-06-18 14:09:27,177 - INFO - Attempting to post ad
-2025-06-18 14:09:27,177 - INFO - Navigating to new post form
-2025-06-18 14:09:35,909 - ERROR - Ad posting error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@type='radio' and @value='fso']"}
+2025-06-18 15:30:59,868 - INFO - Craigslist Automation Bot started
+2025-06-18 15:31:00,935 - INFO - Attempting to log in
+2025-06-18 15:31:07,431 - INFO - Already logged in
+2025-06-18 15:31:22,014 - INFO - Accounts saved successfully
+2025-06-18 15:31:28,392 - INFO - Accounts saved successfully
+2025-06-18 15:32:31,064 - INFO - Accounts saved successfully
+2025-06-18 15:32:42,251 - INFO - Ad rewritten successfully
+2025-06-18 15:32:45,426 - INFO - Ad rewritten successfully
+2025-06-18 15:32:49,419 - INFO - Ad rewritten successfully
+2025-06-18 15:32:53,307 - INFO - Ad rewritten successfully
+2025-06-18 15:32:57,609 - INFO - Ad rewritten successfully
+2025-06-18 15:33:01,806 - INFO - Ad rewritten successfully
+2025-06-18 15:33:04,825 - INFO - Attempting to log in
+2025-06-18 15:33:10,632 - INFO - Already logged in
+2025-06-18 15:33:10,633 - INFO - Attempting to post ad
+2025-06-18 15:33:10,633 - INFO - Navigating to new post form
+2025-06-18 15:33:31,553 - WARNING - Field make not found, skipping
+2025-06-18 15:33:31,583 - WARNING - Field model not found, skipping
+2025-06-18 15:33:31,614 - WARNING - Field size not found, skipping
+2025-06-18 15:33:31,643 - WARNING - Field dimensions not found, skipping
+2025-06-18 15:33:31,734 - WARNING - Field language not found, skipping
+2025-06-18 15:33:31,784 - WARNING - Condition dropdown not found, skipping
+2025-06-18 15:33:48,664 - INFO - Sucessfully Ad Posted!
+2025-06-18 15:54:01,267 - INFO - Browser closed
+2025-06-18 17:11:13,015 - INFO - Craigslist Automation Bot started
+2025-06-18 17:11:14,098 - INFO - Attempting to log in
+2025-06-18 17:11:19,882 - INFO - Already logged in
+2025-06-18 17:11:50,525 - INFO - Ad rewritten successfully
+2025-06-18 17:12:04,456 - INFO - Ad rewritten successfully
+2025-06-18 17:12:07,935 - INFO - Attempting to log in
+2025-06-18 17:12:10,919 - INFO - Already logged in
+2025-06-18 17:12:10,919 - INFO - Attempting to post ad
+2025-06-18 17:12:10,919 - INFO - Navigating to new post form
+2025-06-18 17:12:25,435 - WARNING - Field make not found, skipping
+2025-06-18 17:12:25,465 - WARNING - Field model not found, skipping
+2025-06-18 17:12:25,496 - WARNING - Field size not found, skipping
+2025-06-18 17:12:25,526 - WARNING - Field dimensions not found, skipping
+2025-06-18 17:12:25,616 - WARNING - Field language not found, skipping
+2025-06-18 17:12:25,700 - WARNING - Condition dropdown not found, skipping
+2025-06-18 17:12:38,036 - INFO - Sucessfully Ad Posted!
+2025-06-18 17:13:16,252 - INFO - Browser closed
+2025-06-18 17:13:19,184 - INFO - Craigslist Automation Bot started
+2025-06-18 17:13:20,227 - INFO - Attempting to log in
+2025-06-18 17:13:24,674 - INFO - Already logged in
+2025-06-18 17:13:40,781 - INFO - Ad rewritten successfully
+2025-06-18 17:13:41,974 - INFO - Attempting to log in
+2025-06-18 17:13:45,064 - INFO - Already logged in
+2025-06-18 17:13:45,064 - INFO - Attempting to post ad
+2025-06-18 17:13:45,065 - INFO - Navigating to new post form
+2025-06-18 17:13:56,270 - ERROR - Ad posting error: Message: 
+Stacktrace:
+#0 0x560e9cc4cc0a <unknown>
+#1 0x560e9c6f26e0 <unknown>
+#2 0x560e9c744117 <unknown>
+#3 0x560e9c744311 <unknown>
+#4 0x560e9c792ec4 <unknown>
+#5 0x560e9c769e5d <unknown>
+#6 0x560e9c7902cc <unknown>
+#7 0x560e9c769c03 <unknown>
+#8 0x560e9c73647b <unknown>
+#9 0x560e9c7370e1 <unknown>
+#10 0x560e9cc113bb <unknown>
+#11 0x560e9cc152ef <unknown>
+#12 0x560e9cbf8ef9 <unknown>
+#13 0x560e9cc15e88 <unknown>
+#14 0x560e9cbdd64f <unknown>
+#15 0x560e9cc3a278 <unknown>
+#16 0x560e9cc3a456 <unknown>
+#17 0x560e9cc4bae6 <unknown>
+#18 0x78053269ca94 <unknown>
+#19 0x780532729c3c <unknown>
+
+2025-06-18 17:30:25,189 - INFO - Craigslist Automation Bot started
+2025-06-18 17:30:58,208 - INFO - Craigslist Automation Bot started
+2025-06-18 17:31:24,558 - INFO - Craigslist Automation Bot started
+2025-06-18 17:32:24,533 - INFO - Craigslist Automation Bot started
+2025-06-18 17:33:51,199 - INFO - Craigslist Automation Bot started
+2025-06-18 17:33:51,270 - INFO - ====== WebDriver manager ======
+2025-06-18 17:33:51,405 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 17:33:51,724 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 17:33:52,033 - INFO - Driver [/home/killuaz01/.wdm/drivers/chromedriver/linux64/137.0.7151.119/chromedriver-linux64/chromedriver] found in cache
+2025-06-18 17:37:53,265 - INFO - Craigslist Automation Bot started
+2025-06-18 17:38:04,883 - INFO - [*] Email verification required...
+2025-06-18 17:38:04,884 - ERROR - [!] Login failed for seleniumtesting97@gmail.com: name 'get_verification_link' is not defined
+2025-06-18 17:41:04,572 - INFO - Browser closed
+2025-06-18 17:44:42,746 - INFO - Craigslist Automation Bot started
+2025-06-18 17:44:54,005 - INFO - Accounts saved successfully
+2025-06-18 17:45:00,377 - INFO - Browser closed
+2025-06-18 17:48:47,101 - INFO - Craigslist Automation Bot started
+2025-06-18 17:49:09,382 - INFO - Accounts saved successfully
+2025-06-18 17:49:23,017 - INFO - Ad rewritten successfully
+2025-06-18 17:49:37,381 - INFO - [*] Email verification required...
+2025-06-18 17:51:41,786 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73be7ed556a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/795071bd6f5a3af5cf65be2e403bcd2d/url
+2025-06-18 17:51:41,788 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73be7ed52ad0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/795071bd6f5a3af5cf65be2e403bcd2d/url
+2025-06-18 17:51:41,789 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73be7ed53110>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/795071bd6f5a3af5cf65be2e403bcd2d/url
+2025-06-18 17:51:45,301 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73be8137e190>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/795071bd6f5a3af5cf65be2e403bcd2d
+2025-06-18 17:51:45,343 - INFO - Browser closed
+2025-06-18 17:51:47,347 - INFO - Craigslist Automation Bot started
+2025-06-18 17:52:10,131 - INFO - [*] Email verification required...
+2025-06-18 17:52:13,546 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287465637-5Rjn0t2glPmUEnaoVYIEEdSKJwhDyO
+2025-06-18 17:52:51,166 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-18 17:52:51,313 - INFO - Browser closed
+2025-06-18 19:14:05,223 - INFO - Craigslist Automation Bot started
+2025-06-18 19:14:41,071 - INFO - Ad rewritten successfully
+2025-06-18 19:14:49,571 - INFO - Ad rewritten successfully
+2025-06-18 19:15:14,396 - INFO - [*] Email verification required...
+2025-06-18 19:15:17,052 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287472736-oMxsDHf2KCGhvA7G6Bxdo1uN5XzPAy
+2025-06-18 19:15:56,348 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-18 22:04:55,374 - INFO - Craigslist Automation Bot started
+2025-06-18 22:10:27,607 - INFO - [*] Email verification required...
+2025-06-18 22:10:30,248 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287497399-0X3YKvlYbS8Is7UIa2ybYlpNMb5SsJ
+2025-06-18 22:11:04,008 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-18 22:24:35,409 - INFO - Craigslist Automation Bot started
+2025-06-18 22:24:55,504 - INFO - [*] Email verification required...
+2025-06-18 22:24:58,149 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287499933-HmoaX43ZtBNxypzV2gtr5ann0M7d29
+2025-06-18 22:25:33,985 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-18 22:25:34,016 - INFO - [+] Login appears successful via fallback check.
+2025-06-18 22:25:34,016 - INFO - Attempting to post ad
+2025-06-18 22:25:54,155 - WARNING - Field make not found, skipping
+2025-06-18 22:25:54,186 - WARNING - Field model not found, skipping
+2025-06-18 22:25:54,217 - WARNING - Field size not found, skipping
+2025-06-18 22:25:54,248 - WARNING - Field dimensions not found, skipping
+2025-06-18 22:25:54,343 - WARNING - Field language not found, skipping
+2025-06-18 22:25:54,429 - WARNING - Condition dropdown not found, skipping
+2025-06-18 22:26:06,264 - INFO - Sucessfully Ad Posted!
+2025-06-18 22:26:31,507 - INFO - Ad rewritten successfully
+2025-06-18 22:26:34,067 - INFO - Ad rewritten successfully
+2025-06-18 22:27:37,974 - INFO - Accounts saved successfully
+2025-06-18 22:28:09,502 - INFO - Accounts saved successfully
+2025-06-18 22:34:43,137 - INFO - Craigslist Automation Bot started
+2025-06-18 22:34:58,557 - INFO - Browser closed
+2025-06-18 22:37:52,140 - INFO - Craigslist Automation Bot started
+2025-06-18 22:38:15,772 - INFO - Accounts saved successfully
+2025-06-18 22:42:47,702 - INFO - Browser closed
+2025-06-18 22:48:05,213 - INFO - Craigslist Automation Bot started
+2025-06-18 22:48:18,262 - INFO - [*] Email verification required...
+2025-06-18 22:48:18,262 - ERROR - [!] Login failed for raiarik97@gmail.com: get_verification_link() missing 1 required positional argument: 'email_address'
+2025-06-18 22:49:50,823 - INFO - Craigslist Automation Bot started
+2025-06-18 22:50:07,533 - INFO - [*] Email verification required...
+2025-06-18 22:52:41,769 - WARNING - [!] Could not get verification link from email.
+2025-06-18 22:52:46,867 - INFO - [*] Email verification required...
+2025-06-18 22:53:02,629 - INFO - Ad rewritten successfully
+2025-06-18 22:53:02,654 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70602d0702d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/81cdf6faaf2736a74c2c209e7d9a613a
+2025-06-18 22:53:02,695 - INFO - Browser closed
+2025-06-18 22:56:02,769 - INFO - Craigslist Automation Bot started
+2025-06-18 22:56:17,262 - INFO - [*] Email verification required...
+2025-06-18 23:03:14,096 - INFO - Craigslist Automation Bot started
+2025-06-18 23:03:35,158 - INFO - [*] Email verification required...
+2025-06-18 23:03:37,850 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287503696-4wGJSKrbcPRMtpUCnstJAgJqUgAFbl
+2025-06-18 23:04:16,005 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-18 23:04:16,033 - INFO - [+] Login appears successful via fallback check.
+2025-06-18 23:04:16,034 - INFO - Attempting to post ad
+2025-06-18 23:04:37,070 - WARNING - Field make not found, skipping
+2025-06-18 23:04:37,099 - WARNING - Field model not found, skipping
+2025-06-18 23:04:37,128 - WARNING - Field size not found, skipping
+2025-06-18 23:04:37,158 - WARNING - Field dimensions not found, skipping
+2025-06-18 23:04:37,249 - WARNING - Field language not found, skipping
+2025-06-18 23:04:37,298 - WARNING - Condition dropdown not found, skipping
+2025-06-18 23:04:49,644 - INFO - Sucessfully Ad Posted!
+2025-06-18 23:05:09,492 - INFO - Browser closed
+2025-06-18 23:06:06,720 - INFO - Craigslist Automation Bot started
+2025-06-18 23:06:39,960 - INFO - [*] Email verification required...
+2025-06-18 23:06:43,899 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287502818-sRj9FokFpr0OfcTdeQRTUFrRNSA5q0
+2025-06-18 23:07:17,063 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-18 23:07:17,083 - INFO - [+] Login appears successful via fallback check.
+2025-06-18 23:07:17,084 - INFO - Attempting to post ad
+2025-06-18 23:08:08,086 - WARNING - Field make not found, skipping
+2025-06-18 23:08:08,116 - WARNING - Field model not found, skipping
+2025-06-18 23:08:08,145 - WARNING - Field size not found, skipping
+2025-06-18 23:08:08,175 - WARNING - Field dimensions not found, skipping
+2025-06-18 23:08:08,269 - WARNING - Field language not found, skipping
+2025-06-18 23:08:08,356 - WARNING - Condition dropdown not found, skipping
+2025-06-18 23:08:29,655 - INFO - Sucessfully Ad Posted!
+2025-06-18 23:08:50,834 - INFO - Browser closed
+2025-06-18 23:23:05,559 - INFO - Craigslist Automation Bot started
+2025-06-18 23:23:29,924 - INFO - [*] Email verification required...
+2025-06-18 23:23:35,253 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287509480-SEErm5OMMRPyHtaPzzPyYGneYxM3lc
+2025-06-18 23:24:09,554 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-18 23:24:09,584 - INFO - [+] Login appears successful via fallback check.
+2025-06-18 23:24:09,584 - INFO - Attempting to post ad
+2025-06-18 23:24:39,481 - ERROR - Ad posting error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+#0 0x59a3a54fbc0a <unknown>
+#1 0x59a3a4fa16e0 <unknown>
+#2 0x59a3a4f87dfe <unknown>
+#3 0x59a3a4fb0264 <unknown>
+#4 0x59a3a50218af <unknown>
+#5 0x59a3a503ec6c <unknown>
+#6 0x59a3a5018c03 <unknown>
+#7 0x59a3a4fe547b <unknown>
+#8 0x59a3a4fe60e1 <unknown>
+#9 0x59a3a54c03bb <unknown>
+#10 0x59a3a54c42ef <unknown>
+#11 0x59a3a54a7ef9 <unknown>
+#12 0x59a3a54c4e88 <unknown>
+#13 0x59a3a548c64f <unknown>
+#14 0x59a3a54e9278 <unknown>
+#15 0x59a3a54e9456 <unknown>
+#16 0x59a3a54faae6 <unknown>
+#17 0x724c8589ca94 <unknown>
+#18 0x724c85929c3c <unknown>
+
+2025-06-18 23:24:42,204 - INFO - Browser closed
+2025-06-18 23:27:42,943 - INFO - Craigslist Automation Bot started
+2025-06-18 23:30:21,817 - INFO - Craigslist Automation Bot started
+2025-06-18 23:30:36,314 - INFO - Ad rewritten successfully
+2025-06-18 23:30:48,464 - INFO - [*] Email verification required...
+2025-06-18 23:30:51,739 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287510717-USShNqTRVBZJ7QhZJsLgvQuTk2nDup
+2025-06-18 23:31:26,790 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-18 23:31:26,815 - INFO - [+] Login appears successful via fallback check.
+2025-06-18 23:31:26,816 - INFO - Attempting to post ad
+2025-06-18 23:31:49,132 - WARNING - [!] Failed to set condition: Message: element not interactable: Element is not currently visible and may not be manipulated
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+#0 0x55e760918c0a <unknown>
+#1 0x55e7603be6e0 <unknown>
+#2 0x55e7603c5378 <unknown>
+#3 0x55e7603c7c18 <unknown>
+#4 0x55e7603c7ca3 <unknown>
+#5 0x55e760413fbd <unknown>
+#6 0x55e7604054a2 <unknown>
+#7 0x55e760435e32 <unknown>
+#8 0x55e760403c7a <unknown>
+#9 0x55e760435ffe <unknown>
+#10 0x55e76045c2cc <unknown>
+#11 0x55e760435c03 <unknown>
+#12 0x55e76040247b <unknown>
+#13 0x55e7604030e1 <unknown>
+#14 0x55e7608dd3bb <unknown>
+#15 0x55e7608e12ef <unknown>
+#16 0x55e7608c4ef9 <unknown>
+#17 0x55e7608e1e88 <unknown>
+#18 0x55e7608a964f <unknown>
+#19 0x55e760906278 <unknown>
+#20 0x55e760906456 <unknown>
+#21 0x55e760917ae6 <unknown>
+#22 0x7143f869ca94 <unknown>
+#23 0x7143f8729c3c <unknown>
+
+2025-06-18 23:31:56,565 - INFO - Image upload step skipped
+2025-06-18 23:31:58,668 - ERROR - Ad posting error: Message: invalid session id
+Stacktrace:
+#0 0x55e760918c0a <unknown>
+#1 0x55e7603be533 <unknown>
+#2 0x55e76040163f <unknown>
+#3 0x55e760435d36 <unknown>
+#4 0x55e7604306b7 <unknown>
+#5 0x55e76042f7f5 <unknown>
+#6 0x55e760387758 <unknown>
+#7 0x55e7608dd3bb <unknown>
+#8 0x55e7608e12ef <unknown>
+#9 0x55e7608c4ef9 <unknown>
+#10 0x55e7608e1e88 <unknown>
+#11 0x55e7608a964f <unknown>
+#12 0x55e76038557f <unknown>
+#13 0x7143f862a1ca <unknown>
+#14 0x7143f862a28b __libc_start_main
+#15 0x55e76034c16a _start
+
+2025-06-18 23:31:59,625 - INFO - Browser closed
+2025-06-18 23:32:42,648 - INFO - Craigslist Automation Bot started
+2025-06-18 23:33:17,106 - INFO - Ad rewritten successfully
+2025-06-18 23:33:23,823 - INFO - Ad rewritten successfully
+2025-06-18 23:33:37,608 - INFO - [*] Email verification required...
+2025-06-18 23:33:41,842 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287511154-7oTnwTZ5zSEHLrd0J0M9RwDFtmppUD
+2025-06-18 23:34:18,208 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-18 23:34:18,229 - INFO - [+] Login appears successful via fallback check.
+2025-06-18 23:34:18,230 - INFO - Attempting to post ad
+2025-06-18 23:34:55,588 - WARNING - [!] Failed to set condition: Message: Select only works on <select> elements, not on span
+
+2025-06-18 23:35:07,314 - INFO - Sucessfully Ad Posted!
+2025-06-18 23:35:19,923 - INFO - Ad rewritten successfully
+2025-06-18 23:35:45,312 - INFO - Ad rewritten successfully
+2025-06-18 23:35:52,429 - INFO - Ad rewritten successfully
+2025-06-18 23:36:05,557 - INFO - Browser closed
+2025-06-18 23:39:59,462 - INFO - Craigslist Automation Bot started
+2025-06-18 23:40:15,004 - INFO - Ad rewritten successfully
+2025-06-18 23:40:30,805 - INFO - [*] Email verification required...
+2025-06-18 23:40:34,693 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287512281-NLUHdD2FoLjvd5PgXjd9FK1IUfrp6l
+2025-06-18 23:41:09,899 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-18 23:41:09,921 - INFO - [+] Login appears successful via fallback check.
+2025-06-18 23:41:09,921 - INFO - Attempting to post ad
+2025-06-18 23:41:29,583 - WARNING - [!] Failed to set condition: Message: Select only works on <select> elements, not on span
+
+2025-06-18 23:41:42,043 - INFO - Sucessfully Ad Posted!
+2025-06-18 23:42:36,646 - ERROR - [!] Login failed for nimadrjtamang@gmail.com: Message: 
+Stacktrace:
+#0 0x6318428acc0a <unknown>
+#1 0x6318423526e0 <unknown>
+#2 0x6318423a4117 <unknown>
+#3 0x6318423a4311 <unknown>
+#4 0x6318423f2ec4 <unknown>
+#5 0x6318423c9e5d <unknown>
+#6 0x6318423f02cc <unknown>
+#7 0x6318423c9c03 <unknown>
+#8 0x63184239647b <unknown>
+#9 0x6318423970e1 <unknown>
+#10 0x6318428713bb <unknown>
+#11 0x6318428752ef <unknown>
+#12 0x631842858ef9 <unknown>
+#13 0x631842875e88 <unknown>
+#14 0x63184283d64f <unknown>
+#15 0x63184289a278 <unknown>
+#16 0x63184289a456 <unknown>
+#17 0x6318428abae6 <unknown>
+#18 0x7ce4f9a9ca94 <unknown>
+#19 0x7ce4f9b29c3c <unknown>
+
+2025-06-18 23:43:03,130 - INFO - [*] Email verification required...
+2025-06-18 23:43:05,718 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287512703-REvkFJuppMm6qGv4Pqhqnb8o4NJXgG
+2025-06-18 23:43:32,472 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-18 23:43:32,502 - INFO - [+] Login appears successful via fallback check.
+2025-06-18 23:43:32,502 - INFO - Attempting to post ad
+2025-06-18 23:43:48,582 - WARNING - [!] Failed to set condition: Message: Select only works on <select> elements, not on span
+
+2025-06-18 23:44:01,428 - ERROR - Ad posting error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+#0 0x6318428acc0a <unknown>
+#1 0x6318423526e0 <unknown>
+#2 0x631842338dfe <unknown>
+#3 0x631842361264 <unknown>
+#4 0x6318423d28af <unknown>
+#5 0x6318423efc6c <unknown>
+#6 0x6318423c9c03 <unknown>
+#7 0x63184239647b <unknown>
+#8 0x6318423970e1 <unknown>
+#9 0x6318428713bb <unknown>
+#10 0x6318428752ef <unknown>
+#11 0x631842858ef9 <unknown>
+#12 0x631842875e88 <unknown>
+#13 0x63184283d64f <unknown>
+#14 0x63184289a278 <unknown>
+#15 0x63184289a456 <unknown>
+#16 0x6318428abae6 <unknown>
+#17 0x7ce4f9a9ca94 <unknown>
+#18 0x7ce4f9b29c3c <unknown>
+
+2025-06-18 23:44:02,571 - INFO - Browser closed
+2025-06-18 23:48:30,797 - INFO - Craigslist Automation Bot started
+2025-06-18 23:49:03,394 - INFO - [*] Email verification required...
+2025-06-18 23:49:05,964 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287513731-PGqcYevNhBjgoxl9Tsnbc9zpE1aetP
+2025-06-18 23:50:04,531 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-18 23:50:04,556 - INFO - [+] Login appears successful via fallback check.
+2025-06-18 23:50:04,556 - INFO - Attempting to post ad
+2025-06-18 23:50:15,270 - INFO - Already logged in. Proceeding to post.
+2025-06-18 23:50:35,407 - WARNING - [!] Failed to set condition: Message: Select only works on <select> elements, not on span
+
+2025-06-18 23:50:48,816 - INFO - Sucessfully Ad Posted!
+2025-06-18 23:51:20,718 - ERROR - [!] Login failed for raiarik97@gmail.com: Message: 
+Stacktrace:
+#0 0x603de6259c0a <unknown>
+#1 0x603de5cff6e0 <unknown>
+#2 0x603de5d51117 <unknown>
+#3 0x603de5d51311 <unknown>
+#4 0x603de5d9fec4 <unknown>
+#5 0x603de5d76e5d <unknown>
+#6 0x603de5d9d2cc <unknown>
+#7 0x603de5d76c03 <unknown>
+#8 0x603de5d4347b <unknown>
+#9 0x603de5d440e1 <unknown>
+#10 0x603de621e3bb <unknown>
+#11 0x603de62222ef <unknown>
+#12 0x603de6205ef9 <unknown>
+#13 0x603de6222e88 <unknown>
+#14 0x603de61ea64f <unknown>
+#15 0x603de6247278 <unknown>
+#16 0x603de6247456 <unknown>
+#17 0x603de6258ae6 <unknown>
+#18 0x79a4f389ca94 <unknown>
+#19 0x79a4f3929c3c <unknown>
+
+2025-06-18 23:55:57,612 - INFO - Craigslist Automation Bot started
+2025-06-18 23:56:17,797 - INFO - [*] Email verification required...
+2025-06-18 23:56:20,642 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287514927-Y5bShovz04IfNTHxqop7UGfSwkimHZ
+2025-06-18 23:56:55,988 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-18 23:56:56,014 - INFO - [+] Login appears successful via fallback check.
+2025-06-18 23:56:56,015 - INFO - Attempting to post ad
+2025-06-18 23:56:57,226 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-18 23:56:57,329 - INFO - Already logged in. Proceeding to post.
+2025-06-18 23:57:13,120 - WARNING - [!] Failed to set condition: Message: Select only works on <select> elements, not on span
+
+2025-06-18 23:57:22,394 - INFO - Sucessfully Ad Posted!
+2025-06-18 23:57:53,592 - ERROR - [!] Login failed for raiarik97@gmail.com: Message: 
+Stacktrace:
+#0 0x5beb81f7cc0a <unknown>
+#1 0x5beb81a226e0 <unknown>
+#2 0x5beb81a74117 <unknown>
+#3 0x5beb81a74311 <unknown>
+#4 0x5beb81ac2ec4 <unknown>
+#5 0x5beb81a99e5d <unknown>
+#6 0x5beb81ac02cc <unknown>
+#7 0x5beb81a99c03 <unknown>
+#8 0x5beb81a6647b <unknown>
+#9 0x5beb81a670e1 <unknown>
+#10 0x5beb81f413bb <unknown>
+#11 0x5beb81f452ef <unknown>
+#12 0x5beb81f28ef9 <unknown>
+#13 0x5beb81f45e88 <unknown>
+#14 0x5beb81f0d64f <unknown>
+#15 0x5beb81f6a278 <unknown>
+#16 0x5beb81f6a456 <unknown>
+#17 0x5beb81f7bae6 <unknown>
+#18 0x7c41d8e9ca94 <unknown>
+#19 0x7c41d8f29c3c <unknown>
+
+2025-06-19 00:08:06,160 - INFO - Craigslist Automation Bot started
+2025-06-19 00:09:17,936 - INFO - Craigslist Automation Bot started
+2025-06-19 00:13:13,486 - INFO - Craigslist Automation Bot started
+2025-06-19 00:13:34,401 - INFO - [!] 'make new post' link not found — user is not logged in.
+2025-06-19 00:13:42,064 - INFO - [*] Email verification required...
+2025-06-19 00:13:49,553 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287517863-btzwc1Q6JCd6iyUBdkOb2LnUL10hdr
+2025-06-19 00:14:46,994 - WARNING - [!] Logout link not found after verification. Checking fallback.
+2025-06-19 00:20:07,970 - INFO - Craigslist Automation Bot started
+2025-06-19 00:20:35,350 - INFO - [*] Email verification required...
+2025-06-19 00:20:41,610 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287518921-OxGk6CBWo3u6cXmQcqwbDgeBt2VNi9
+2025-06-19 00:21:39,646 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-19 00:21:39,676 - INFO - [+] Login appears successful via fallback check.
+2025-06-19 00:21:39,677 - INFO - Attempting to post ad
+2025-06-19 00:21:43,305 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 00:21:43,408 - INFO - Already logged in. Proceeding to post.
+2025-06-19 00:22:19,790 - WARNING - [!] Failed to set condition: Message: Select only works on <select> elements, not on span
+
+2025-06-19 00:22:36,911 - INFO - Sucessfully Ad Posted!
+2025-06-19 00:23:19,346 - ERROR - [!] Login failed for raiarik97@gmail.com: Message: 
+Stacktrace:
+#0 0x59d9f5a62c0a <unknown>
+#1 0x59d9f55086e0 <unknown>
+#2 0x59d9f555a117 <unknown>
+#3 0x59d9f555a311 <unknown>
+#4 0x59d9f55a8ec4 <unknown>
+#5 0x59d9f557fe5d <unknown>
+#6 0x59d9f55a62cc <unknown>
+#7 0x59d9f557fc03 <unknown>
+#8 0x59d9f554c47b <unknown>
+#9 0x59d9f554d0e1 <unknown>
+#10 0x59d9f5a273bb <unknown>
+#11 0x59d9f5a2b2ef <unknown>
+#12 0x59d9f5a0eef9 <unknown>
+#13 0x59d9f5a2be88 <unknown>
+#14 0x59d9f59f364f <unknown>
+#15 0x59d9f5a50278 <unknown>
+#16 0x59d9f5a50456 <unknown>
+#17 0x59d9f5a61ae6 <unknown>
+#18 0x778b4649ca94 <unknown>
+#19 0x778b46529c3c <unknown>
+
+2025-06-19 00:27:20,907 - INFO - Craigslist Automation Bot started
+2025-06-19 00:27:41,814 - INFO - [!] 'make new post' link not found — user is not logged in.
+2025-06-19 00:27:50,518 - INFO - [*] Email verification required...
+2025-06-19 00:27:54,494 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287520056-Wd29hiahw3BYrKIi8B3EwS7hAkcC3R
+2025-06-19 00:28:56,532 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-19 00:28:56,566 - INFO - [+] Login appears successful via fallback check.
+2025-06-19 00:28:56,566 - INFO - Attempting to post ad
+2025-06-19 00:29:01,313 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 00:29:01,335 - INFO - Already logged in. Proceeding to post.
+2025-06-19 00:29:43,017 - WARNING - [!] Failed to set condition using Select. Attempting fallback method.
+2025-06-19 00:29:43,046 - WARNING - [!] Failed to set condition: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(@class, 'ui-selectmenu-text') and contains(text(), '10')]"}
   (Session info: chrome=137.0.7151.103); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x5cc200afbc0a <unknown>
-#1 0x5cc2005a16e0 <unknown>
-#2 0x5cc2005f3117 <unknown>
-#3 0x5cc2005f3311 <unknown>
-#4 0x5cc200641ec4 <unknown>
-#5 0x5cc200618e5d <unknown>
-#6 0x5cc20063f2cc <unknown>
-#7 0x5cc200618c03 <unknown>
-#8 0x5cc2005e547b <unknown>
-#9 0x5cc2005e60e1 <unknown>
-#10 0x5cc200ac03bb <unknown>
-#11 0x5cc200ac42ef <unknown>
-#12 0x5cc200aa7ef9 <unknown>
-#13 0x5cc200ac4e88 <unknown>
-#14 0x5cc200a8c64f <unknown>
-#15 0x5cc200ae9278 <unknown>
-#16 0x5cc200ae9456 <unknown>
-#17 0x5cc200afaae6 <unknown>
-#18 0x7ddc96c9ca94 <unknown>
-#19 0x7ddc96d29c3c <unknown>
+#0 0x5dc88f425c0a <unknown>
+#1 0x5dc88eecb6e0 <unknown>
+#2 0x5dc88ef1d117 <unknown>
+#3 0x5dc88ef1d311 <unknown>
+#4 0x5dc88ef6bec4 <unknown>
+#5 0x5dc88ef42e5d <unknown>
+#6 0x5dc88ef692cc <unknown>
+#7 0x5dc88ef42c03 <unknown>
+#8 0x5dc88ef0f47b <unknown>
+#9 0x5dc88ef100e1 <unknown>
+#10 0x5dc88f3ea3bb <unknown>
+#11 0x5dc88f3ee2ef <unknown>
+#12 0x5dc88f3d1ef9 <unknown>
+#13 0x5dc88f3eee88 <unknown>
+#14 0x5dc88f3b664f <unknown>
+#15 0x5dc88f413278 <unknown>
+#16 0x5dc88f413456 <unknown>
+#17 0x5dc88f424ae6 <unknown>
+#18 0x734a3dc9ca94 <unknown>
+#19 0x734a3dd29c3c <unknown>
 
-2025-06-18 14:12:34,978 - INFO - Craigslist Automation Bot started
-2025-06-18 14:12:36,029 - INFO - Attempting to log in
-2025-06-18 14:12:41,896 - INFO - Already logged in
-2025-06-18 14:12:47,027 - INFO - Attempting to log in
-2025-06-18 14:12:51,117 - INFO - Already logged in
-2025-06-18 14:12:51,118 - INFO - Attempting to post ad
-2025-06-18 14:12:51,118 - INFO - Navigating to new post form
-2025-06-18 14:12:59,615 - ERROR - Ad posting error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@type='radio' and @value='fso']"}
+2025-06-19 00:30:01,228 - INFO - Sucessfully Ad Posted!
+2025-06-19 00:30:21,195 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 00:30:21,196 - INFO - Attempting to post ad
+2025-06-19 00:30:27,613 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 00:30:27,613 - INFO - Already logged in. Proceeding to post.
+2025-06-19 00:30:38,991 - WARNING - [!] Failed to set condition using Select. Attempting fallback method.
+2025-06-19 00:30:39,021 - WARNING - [!] Failed to set condition: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(@class, 'ui-selectmenu-text') and contains(text(), '10')]"}
   (Session info: chrome=137.0.7151.103); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x605190b01c0a <unknown>
-#1 0x6051905a76e0 <unknown>
-#2 0x6051905f9117 <unknown>
-#3 0x6051905f9311 <unknown>
-#4 0x605190647ec4 <unknown>
-#5 0x60519061ee5d <unknown>
-#6 0x6051906452cc <unknown>
-#7 0x60519061ec03 <unknown>
-#8 0x6051905eb47b <unknown>
-#9 0x6051905ec0e1 <unknown>
-#10 0x605190ac63bb <unknown>
-#11 0x605190aca2ef <unknown>
-#12 0x605190aadef9 <unknown>
-#13 0x605190acae88 <unknown>
-#14 0x605190a9264f <unknown>
-#15 0x605190aef278 <unknown>
-#16 0x605190aef456 <unknown>
-#17 0x605190b00ae6 <unknown>
-#18 0x7a31d409ca94 <unknown>
-#19 0x7a31d4129c3c <unknown>
+#0 0x5dc88f425c0a <unknown>
+#1 0x5dc88eecb6e0 <unknown>
+#2 0x5dc88ef1d117 <unknown>
+#3 0x5dc88ef1d311 <unknown>
+#4 0x5dc88ef6bec4 <unknown>
+#5 0x5dc88ef42e5d <unknown>
+#6 0x5dc88ef692cc <unknown>
+#7 0x5dc88ef42c03 <unknown>
+#8 0x5dc88ef0f47b <unknown>
+#9 0x5dc88ef100e1 <unknown>
+#10 0x5dc88f3ea3bb <unknown>
+#11 0x5dc88f3ee2ef <unknown>
+#12 0x5dc88f3d1ef9 <unknown>
+#13 0x5dc88f3eee88 <unknown>
+#14 0x5dc88f3b664f <unknown>
+#15 0x5dc88f413278 <unknown>
+#16 0x5dc88f413456 <unknown>
+#17 0x5dc88f424ae6 <unknown>
+#18 0x734a3dc9ca94 <unknown>
+#19 0x734a3dd29c3c <unknown>
 
-2025-06-18 14:15:23,457 - INFO - Browser closed
-2025-06-18 14:15:39,453 - INFO - Craigslist Automation Bot started
-2025-06-18 14:15:40,587 - INFO - Attempting to log in
-2025-06-18 14:15:47,021 - INFO - Already logged in
-2025-06-18 14:15:50,706 - INFO - Attempting to log in
-2025-06-18 14:15:54,900 - INFO - Already logged in
-2025-06-18 14:15:54,901 - INFO - Attempting to post ad
-2025-06-18 14:15:54,901 - INFO - Navigating to new post form
-2025-06-18 14:16:10,123 - ERROR - Ad posting error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@type='radio' and @value='fso']"}
+2025-06-19 00:31:01,751 - INFO - Sucessfully Ad Posted!
+2025-06-19 00:33:43,259 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 00:33:43,259 - INFO - Attempting to post ad
+2025-06-19 00:33:45,248 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 00:33:45,249 - INFO - Already logged in. Proceeding to post.
+2025-06-19 00:34:11,512 - ERROR - Ad posting error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+#0 0x5dc88f425c0a <unknown>
+#1 0x5dc88eecb6e0 <unknown>
+#2 0x5dc88eea00c0 <unknown>
+#3 0x5dc88ef4b6a8 <unknown>
+#4 0x5dc88ef68c6c <unknown>
+#5 0x5dc88ef42c03 <unknown>
+#6 0x5dc88ef0f47b <unknown>
+#7 0x5dc88ef100e1 <unknown>
+#8 0x5dc88f3ea3bb <unknown>
+#9 0x5dc88f3ee2ef <unknown>
+#10 0x5dc88f3d1ef9 <unknown>
+#11 0x5dc88f3eee88 <unknown>
+#12 0x5dc88f3b664f <unknown>
+#13 0x5dc88f413278 <unknown>
+#14 0x5dc88f413456 <unknown>
+#15 0x5dc88f424ae6 <unknown>
+#16 0x734a3dc9ca94 <unknown>
+#17 0x734a3dd29c3c <unknown>
+
+2025-06-19 00:34:11,707 - INFO - Browser closed
+2025-06-19 07:54:13,775 - INFO - Craigslist Automation Bot started
+2025-06-19 07:54:44,703 - INFO - [!] 'make new post' link not found — user is not logged in.
+2025-06-19 07:54:50,266 - INFO - [*] Email verification required...
+2025-06-19 07:54:56,721 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287579475-mtCGEFDXtZLmIliEqMNav5zrBdoxhL
+2025-06-19 07:55:38,070 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-19 07:55:38,103 - INFO - [+] Login appears successful via fallback check.
+2025-06-19 07:55:38,103 - INFO - Attempting to post ad
+2025-06-19 07:55:40,976 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 07:55:41,005 - INFO - Already logged in. Proceeding to post.
+2025-06-19 07:56:24,945 - INFO - Sucessfully Ad Posted!
+2025-06-19 08:01:18,071 - INFO - Craigslist Automation Bot started
+2025-06-19 08:02:09,610 - INFO - [!] 'make new post' link not found — user is not logged in.
+2025-06-19 08:02:15,717 - INFO - [!] 'make new post' link not found — user is not logged in.
+2025-06-19 08:02:23,115 - INFO - [*] Email verification required...
+2025-06-19 08:02:25,774 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287580170-ZRF84tJ0Z1Oz423pp3trh1eL8mnHnO
+2025-06-19 08:03:00,788 - WARNING - [!] Logout link not found after verification link visit.
+2025-06-19 08:03:00,823 - INFO - [+] Login appears successful via fallback check.
+2025-06-19 08:03:00,823 - INFO - Attempting to post ad
+2025-06-19 08:03:02,288 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 08:03:02,312 - INFO - Already logged in. Proceeding to post.
+2025-06-19 08:03:38,853 - INFO - Sucessfully Ad Posted!
+2025-06-19 08:05:01,561 - INFO - Ad rewritten successfully
+2025-06-19 08:05:09,897 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 08:05:09,897 - INFO - Attempting to post ad
+2025-06-19 08:05:11,353 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 08:05:11,353 - INFO - Already logged in. Proceeding to post.
+2025-06-19 08:05:51,480 - INFO - Sucessfully Ad Posted!
+2025-06-19 08:25:27,613 - INFO - Craigslist Automation Bot started
+2025-06-19 08:25:49,957 - INFO - [!] 'make new post' link not found — user is not logged in.
+2025-06-19 08:25:49,988 - INFO - [INFO] Preparing to log in as raiarik97@gmail.com
+2025-06-19 08:26:53,047 - INFO - [!] 'make new post' link not found — user is not logged in.
+2025-06-19 08:26:53,048 - INFO - [INFO] Preparing to log in as raiarik97@gmail.com
+2025-06-19 08:27:04,944 - INFO - Browser closed
+2025-06-19 08:27:07,539 - INFO - Craigslist Automation Bot started
+2025-06-19 08:27:23,670 - INFO - [!] 'make new post' link not found — user is not logged in.
+2025-06-19 08:27:23,702 - INFO - [INFO] Preparing to log in as raiarik97@gmail.com
+2025-06-19 08:27:29,462 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x596fcde99c0a <unknown>
+#1 0x596fcd93f6e0 <unknown>
+#2 0x596fcd991117 <unknown>
+#3 0x596fcd991311 <unknown>
+#4 0x596fcd9dfec4 <unknown>
+#5 0x596fcd9b6e5d <unknown>
+#6 0x596fcd9dd2cc <unknown>
+#7 0x596fcd9b6c03 <unknown>
+#8 0x596fcd98347b <unknown>
+#9 0x596fcd9840e1 <unknown>
+#10 0x596fcde5e3bb <unknown>
+#11 0x596fcde622ef <unknown>
+#12 0x596fcde45ef9 <unknown>
+#13 0x596fcde62e88 <unknown>
+#14 0x596fcde2a64f <unknown>
+#15 0x596fcde87278 <unknown>
+#16 0x596fcde87456 <unknown>
+#17 0x596fcde98ae6 <unknown>
+#18 0x7731b369ca94 <unknown>
+#19 0x7731b3729c3c <unknown>
+
+2025-06-19 08:27:34,963 - INFO - [*] Email verification required...
+2025-06-19 08:27:37,921 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287582425-rSoSNxsaLtgw30ACHiqIdmUe2vN4OA
+2025-06-19 08:27:53,922 - INFO - Attempting to post ad
+2025-06-19 08:27:54,864 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 08:27:54,890 - INFO - Already logged in. Proceeding to post.
+2025-06-19 08:28:22,864 - INFO - Image upload step skipped
+2025-06-19 08:28:24,899 - ERROR - Ad posting error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="go"]"}
   (Session info: chrome=137.0.7151.103); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x5ea281a9ec0a <unknown>
-#1 0x5ea2815446e0 <unknown>
-#2 0x5ea281596117 <unknown>
-#3 0x5ea281596311 <unknown>
-#4 0x5ea2815e4ec4 <unknown>
-#5 0x5ea2815bbe5d <unknown>
-#6 0x5ea2815e22cc <unknown>
-#7 0x5ea2815bbc03 <unknown>
-#8 0x5ea28158847b <unknown>
-#9 0x5ea2815890e1 <unknown>
-#10 0x5ea281a633bb <unknown>
-#11 0x5ea281a672ef <unknown>
-#12 0x5ea281a4aef9 <unknown>
-#13 0x5ea281a67e88 <unknown>
-#14 0x5ea281a2f64f <unknown>
-#15 0x5ea281a8c278 <unknown>
-#16 0x5ea281a8c456 <unknown>
-#17 0x5ea281a9dae6 <unknown>
-#18 0x7fa2bd89ca94 <unknown>
-#19 0x7fa2bd929c3c <unknown>
+#0 0x596fcde99c0a <unknown>
+#1 0x596fcd93f6e0 <unknown>
+#2 0x596fcd991117 <unknown>
+#3 0x596fcd991311 <unknown>
+#4 0x596fcd9dfec4 <unknown>
+#5 0x596fcd9b6e5d <unknown>
+#6 0x596fcd9dd2cc <unknown>
+#7 0x596fcd9b6c03 <unknown>
+#8 0x596fcd98347b <unknown>
+#9 0x596fcd9840e1 <unknown>
+#10 0x596fcde5e3bb <unknown>
+#11 0x596fcde622ef <unknown>
+#12 0x596fcde45ef9 <unknown>
+#13 0x596fcde62e88 <unknown>
+#14 0x596fcde2a64f <unknown>
+#15 0x596fcde87278 <unknown>
+#16 0x596fcde87456 <unknown>
+#17 0x596fcde98ae6 <unknown>
+#18 0x7731b369ca94 <unknown>
+#19 0x7731b3729c3c <unknown>
 
-2025-06-18 14:16:41,836 - INFO - Craigslist Automation Bot started
-2025-06-18 14:16:42,900 - INFO - Attempting to log in
-2025-06-18 14:16:48,832 - INFO - Already logged in
-2025-06-18 14:16:51,078 - INFO - Attempting to log in
-2025-06-18 14:16:55,156 - INFO - Already logged in
-2025-06-18 14:16:55,156 - INFO - Attempting to post ad
-2025-06-18 14:16:55,156 - INFO - Navigating to new post form
-2025-06-18 14:17:11,829 - ERROR - Ad posting error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@type='radio' and @value='fso']"}
+2025-06-19 08:29:30,515 - INFO - Craigslist Automation Bot started
+2025-06-19 08:29:54,238 - INFO - [!] 'make new post' link not found — user is not logged in.
+2025-06-19 08:29:54,269 - INFO - [INFO] Preparing to log in as raiarik97@gmail.com
+2025-06-19 08:30:00,203 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x5cf192c00c0a <unknown>
+#1 0x5cf1926a66e0 <unknown>
+#2 0x5cf1926f8117 <unknown>
+#3 0x5cf1926f8311 <unknown>
+#4 0x5cf192746ec4 <unknown>
+#5 0x5cf19271de5d <unknown>
+#6 0x5cf1927442cc <unknown>
+#7 0x5cf19271dc03 <unknown>
+#8 0x5cf1926ea47b <unknown>
+#9 0x5cf1926eb0e1 <unknown>
+#10 0x5cf192bc53bb <unknown>
+#11 0x5cf192bc92ef <unknown>
+#12 0x5cf192bacef9 <unknown>
+#13 0x5cf192bc9e88 <unknown>
+#14 0x5cf192b9164f <unknown>
+#15 0x5cf192bee278 <unknown>
+#16 0x5cf192bee456 <unknown>
+#17 0x5cf192bffae6 <unknown>
+#18 0x76cb4bc9ca94 <unknown>
+#19 0x76cb4bd29c3c <unknown>
+
+2025-06-19 08:30:05,877 - INFO - [*] Email verification required...
+2025-06-19 08:30:08,346 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287582691-QgrfzqyJOKSEZSNh9kDRFQoit2LHq1
+2025-06-19 08:30:27,073 - INFO - Attempting to post ad
+2025-06-19 08:30:29,069 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 08:30:29,093 - INFO - Already logged in. Proceeding to post.
+2025-06-19 08:30:59,289 - INFO - Image upload step skipped
+2025-06-19 08:31:02,282 - ERROR - Ad posting error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="go"]"}
   (Session info: chrome=137.0.7151.103); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x5af2b509cc0a <unknown>
-#1 0x5af2b4b426e0 <unknown>
-#2 0x5af2b4b94117 <unknown>
-#3 0x5af2b4b94311 <unknown>
-#4 0x5af2b4be2ec4 <unknown>
-#5 0x5af2b4bb9e5d <unknown>
-#6 0x5af2b4be02cc <unknown>
-#7 0x5af2b4bb9c03 <unknown>
-#8 0x5af2b4b8647b <unknown>
-#9 0x5af2b4b870e1 <unknown>
-#10 0x5af2b50613bb <unknown>
-#11 0x5af2b50652ef <unknown>
-#12 0x5af2b5048ef9 <unknown>
-#13 0x5af2b5065e88 <unknown>
-#14 0x5af2b502d64f <unknown>
-#15 0x5af2b508a278 <unknown>
-#16 0x5af2b508a456 <unknown>
-#17 0x5af2b509bae6 <unknown>
-#18 0x7d98d9a9ca94 <unknown>
-#19 0x7d98d9b29c3c <unknown>
+#0 0x5cf192c00c0a <unknown>
+#1 0x5cf1926a66e0 <unknown>
+#2 0x5cf1926f8117 <unknown>
+#3 0x5cf1926f8311 <unknown>
+#4 0x5cf192746ec4 <unknown>
+#5 0x5cf19271de5d <unknown>
+#6 0x5cf1927442cc <unknown>
+#7 0x5cf19271dc03 <unknown>
+#8 0x5cf1926ea47b <unknown>
+#9 0x5cf1926eb0e1 <unknown>
+#10 0x5cf192bc53bb <unknown>
+#11 0x5cf192bc92ef <unknown>
+#12 0x5cf192bacef9 <unknown>
+#13 0x5cf192bc9e88 <unknown>
+#14 0x5cf192b9164f <unknown>
+#15 0x5cf192bee278 <unknown>
+#16 0x5cf192bee456 <unknown>
+#17 0x5cf192bffae6 <unknown>
+#18 0x76cb4bc9ca94 <unknown>
+#19 0x76cb4bd29c3c <unknown>
 
-2025-06-18 14:18:00,258 - INFO - Craigslist Automation Bot started
-2025-06-18 14:18:01,344 - INFO - Attempting to log in
-2025-06-18 14:18:07,834 - INFO - Already logged in
-2025-06-18 14:18:09,177 - INFO - Attempting to log in
-2025-06-18 14:18:13,153 - INFO - Already logged in
-2025-06-18 14:18:13,154 - INFO - Attempting to post ad
-2025-06-18 14:18:13,154 - INFO - Navigating to new post form
-2025-06-18 14:18:27,129 - WARNING - Field make not found, skipping
-2025-06-18 14:18:27,159 - WARNING - Field model not found, skipping
-2025-06-18 14:18:27,189 - WARNING - Field size not found, skipping
-2025-06-18 14:18:27,219 - WARNING - Field dimensions not found, skipping
-2025-06-18 14:18:27,310 - WARNING - Field language not found, skipping
-2025-06-18 14:18:27,409 - WARNING - Condition dropdown not found, skipping
-2025-06-18 14:18:39,594 - INFO - Reached the publish page
-2025-06-18 14:19:23,818 - INFO - Attempting to log in
-2025-06-18 14:19:26,277 - INFO - Attempting to log in
-2025-06-18 14:26:33,233 - INFO - Craigslist Automation Bot started
-2025-06-18 14:26:34,338 - INFO - Attempting to log in
-2025-06-18 14:26:38,960 - INFO - Already logged in
-2025-06-18 14:27:25,299 - INFO - Attempting to log in
-2025-06-18 14:27:28,339 - INFO - Already logged in
-2025-06-18 14:27:49,847 - INFO - Craigslist Automation Bot started
-2025-06-18 14:27:51,038 - INFO - Attempting to log in
-2025-06-18 14:27:55,512 - INFO - Already logged in
-2025-06-18 14:28:05,712 - INFO - Attempting to log in
-2025-06-18 14:28:09,292 - INFO - Already logged in
-2025-06-18 14:28:09,293 - INFO - Attempting to post ad
-2025-06-18 14:28:09,293 - INFO - Navigating to new post form
-2025-06-18 14:28:22,478 - WARNING - Field make not found, skipping
-2025-06-18 14:28:22,516 - WARNING - Field model not found, skipping
-2025-06-18 14:28:22,547 - WARNING - Field size not found, skipping
-2025-06-18 14:28:22,577 - WARNING - Field dimensions not found, skipping
-2025-06-18 14:28:22,671 - WARNING - Field language not found, skipping
-2025-06-18 14:28:22,777 - WARNING - Condition dropdown not found, skipping
-2025-06-18 14:28:31,804 - INFO - Sucessfully Ad Posted!
-2025-06-18 14:29:42,579 - INFO - Craigslist Automation Bot started
-2025-06-18 14:29:43,740 - INFO - Attempting to log in
-2025-06-18 14:29:48,072 - INFO - Already logged in
-2025-06-18 14:29:50,613 - INFO - Attempting to log in
-2025-06-18 14:29:54,519 - INFO - Already logged in
-2025-06-18 14:29:54,520 - INFO - Attempting to post ad
-2025-06-18 14:29:54,520 - INFO - Navigating to new post form
-2025-06-18 14:30:07,780 - WARNING - Field make not found, skipping
-2025-06-18 14:30:07,809 - WARNING - Field model not found, skipping
-2025-06-18 14:30:07,853 - WARNING - Field size not found, skipping
-2025-06-18 14:30:07,883 - WARNING - Field dimensions not found, skipping
-2025-06-18 14:30:07,975 - WARNING - Field language not found, skipping
-2025-06-18 14:30:08,070 - WARNING - Condition dropdown not found, skipping
-2025-06-18 14:30:20,525 - INFO - Sucessfully Ad Posted!
-2025-06-18 14:30:39,019 - INFO - Attempting to log in
-2025-06-18 14:30:43,048 - INFO - Already logged in
-2025-06-18 14:30:43,049 - INFO - Attempting to post ad
-2025-06-18 14:30:43,049 - INFO - Navigating to new post form
-2025-06-18 14:30:51,734 - WARNING - Field make not found, skipping
-2025-06-18 14:30:51,765 - WARNING - Field model not found, skipping
-2025-06-18 14:30:51,796 - WARNING - Field size not found, skipping
-2025-06-18 14:30:51,826 - WARNING - Field dimensions not found, skipping
-2025-06-18 14:30:51,936 - WARNING - Field language not found, skipping
-2025-06-18 14:30:52,024 - WARNING - Condition dropdown not found, skipping
-2025-06-18 14:31:01,461 - INFO - Sucessfully Ad Posted!
-2025-06-18 14:31:33,537 - INFO - Attempting to log in
-2025-06-18 14:31:35,926 - INFO - Already logged in
-2025-06-18 14:31:35,928 - INFO - Attempting to post ad
-2025-06-18 14:31:35,928 - INFO - Navigating to new post form
-2025-06-18 14:31:43,227 - WARNING - Field make not found, skipping
-2025-06-18 14:31:43,257 - WARNING - Field model not found, skipping
-2025-06-18 14:31:43,286 - WARNING - Field size not found, skipping
-2025-06-18 14:31:43,314 - WARNING - Field dimensions not found, skipping
-2025-06-18 14:31:43,402 - WARNING - Field language not found, skipping
-2025-06-18 14:31:43,505 - WARNING - Condition dropdown not found, skipping
-2025-06-18 14:31:56,755 - INFO - Sucessfully Ad Posted!
-2025-06-18 14:34:04,479 - INFO - Craigslist Automation Bot started
-2025-06-18 14:34:05,741 - INFO - Attempting to log in
-2025-06-18 14:34:18,986 - INFO - Already logged in
-2025-06-18 14:34:34,787 - INFO - Attempting to log in
-2025-06-18 14:34:39,240 - INFO - Already logged in
-2025-06-18 14:34:39,240 - INFO - Attempting to post ad
-2025-06-18 14:34:39,241 - INFO - Navigating to new post form
-2025-06-18 14:34:51,743 - WARNING - Field make not found, skipping
-2025-06-18 14:34:51,773 - WARNING - Field model not found, skipping
-2025-06-18 14:34:51,803 - WARNING - Field size not found, skipping
-2025-06-18 14:34:51,833 - WARNING - Field dimensions not found, skipping
-2025-06-18 14:34:51,940 - WARNING - Field language not found, skipping
-2025-06-18 14:34:51,988 - WARNING - Condition dropdown not found, skipping
-2025-06-18 14:35:03,522 - INFO - Sucessfully Ad Posted!
-2025-06-18 14:36:06,092 - INFO - Craigslist Automation Bot started
-2025-06-18 14:36:07,377 - INFO - Attempting to log in
-2025-06-18 14:36:15,403 - INFO - Already logged in
-2025-06-18 14:37:03,651 - INFO - Attempting to log in
-2025-06-18 14:37:08,293 - INFO - Already logged in
-2025-06-18 14:37:08,293 - INFO - Attempting to post ad
-2025-06-18 14:37:08,293 - INFO - Navigating to new post form
-2025-06-18 14:37:22,073 - WARNING - Field make not found, skipping
-2025-06-18 14:37:22,103 - WARNING - Field model not found, skipping
-2025-06-18 14:37:22,132 - WARNING - Field size not found, skipping
-2025-06-18 14:37:22,160 - WARNING - Field dimensions not found, skipping
-2025-06-18 14:37:22,250 - WARNING - Field language not found, skipping
-2025-06-18 14:37:22,353 - WARNING - Condition dropdown not found, skipping
-2025-06-18 14:37:34,229 - INFO - Sucessfully Ad Posted!
-2025-06-18 14:38:22,708 - INFO - Craigslist Automation Bot started
-2025-06-18 14:38:23,873 - INFO - Attempting to log in
-2025-06-18 14:38:30,119 - INFO - Already logged in
-2025-06-18 14:38:40,598 - INFO - Attempting to log in
-2025-06-18 14:38:44,035 - INFO - Already logged in
-2025-06-18 14:38:44,035 - INFO - Attempting to post ad
-2025-06-18 14:38:44,036 - INFO - Navigating to new post form
-2025-06-18 14:38:57,563 - WARNING - Field make not found, skipping
-2025-06-18 14:38:57,592 - WARNING - Field model not found, skipping
-2025-06-18 14:38:57,636 - WARNING - Field size not found, skipping
-2025-06-18 14:38:57,666 - WARNING - Field dimensions not found, skipping
-2025-06-18 14:38:57,760 - WARNING - Field language not found, skipping
-2025-06-18 14:38:57,810 - WARNING - Condition dropdown not found, skipping
-2025-06-18 14:39:10,501 - INFO - Sucessfully Ad Posted!
-2025-06-18 14:43:55,086 - INFO - Craigslist Automation Bot started
-2025-06-18 14:43:56,084 - INFO - Attempting to log in
-2025-06-18 14:44:01,768 - INFO - Already logged in
-2025-06-18 14:44:23,487 - INFO - Ad rewritten successfully
-2025-06-18 14:46:12,595 - INFO - Ad rewritten successfully
-2025-06-18 14:46:52,265 - INFO - Ad rewritten successfully
-2025-06-18 14:46:55,059 - INFO - Attempting to log in
-2025-06-18 14:47:00,979 - INFO - Already logged in
-2025-06-18 14:47:00,980 - INFO - Attempting to post ad
-2025-06-18 14:47:00,980 - INFO - Navigating to new post form
-2025-06-18 14:47:13,530 - WARNING - Field make not found, skipping
-2025-06-18 14:47:13,560 - WARNING - Field model not found, skipping
-2025-06-18 14:47:13,591 - WARNING - Field size not found, skipping
-2025-06-18 14:47:13,622 - WARNING - Field dimensions not found, skipping
-2025-06-18 14:47:13,722 - WARNING - Field language not found, skipping
-2025-06-18 14:47:13,773 - WARNING - Condition dropdown not found, skipping
-2025-06-18 14:47:28,009 - INFO - Sucessfully Ad Posted!
-2025-06-18 14:48:49,191 - INFO - Browser closed
-2025-06-18 14:49:13,769 - INFO - Craigslist Automation Bot started
-2025-06-18 14:49:14,857 - INFO - Attempting to log in
-2025-06-18 14:49:18,965 - INFO - Already logged in
-2025-06-18 14:49:34,067 - INFO - Ad rewritten successfully
-2025-06-18 14:49:40,217 - INFO - Ad rewritten successfully
-2025-06-18 14:49:45,876 - INFO - Attempting to log in
-2025-06-18 14:49:51,017 - INFO - Already logged in
-2025-06-18 14:49:51,017 - INFO - Attempting to post ad
-2025-06-18 14:49:51,018 - INFO - Navigating to new post form
-2025-06-18 14:50:05,364 - WARNING - Field make not found, skipping
-2025-06-18 14:50:05,395 - WARNING - Field model not found, skipping
-2025-06-18 14:50:05,426 - WARNING - Field size not found, skipping
-2025-06-18 14:50:05,456 - WARNING - Field dimensions not found, skipping
-2025-06-18 14:50:05,551 - WARNING - Field language not found, skipping
-2025-06-18 14:50:05,602 - WARNING - Condition dropdown not found, skipping
-2025-06-18 14:50:19,461 - INFO - Sucessfully Ad Posted!
-2025-06-18 14:51:40,724 - INFO - Accounts saved successfully
-2025-06-18 14:52:22,812 - INFO - Browser closed
+2025-06-19 08:31:26,508 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 08:31:26,509 - INFO - Attempting to post ad
+2025-06-19 08:31:29,915 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 08:31:29,915 - INFO - Already logged in. Proceeding to post.
+2025-06-19 08:31:49,645 - INFO - Sucessfully Ad Posted!
+2025-06-19 08:36:06,802 - INFO - Craigslist Automation Bot started
+2025-06-19 08:36:29,571 - INFO - [!] 'make new post' link not found — user is not logged in.
+2025-06-19 08:36:29,601 - INFO - [INFO] Preparing to log in as nimadrjtamang@gmail.com
+2025-06-19 08:36:35,868 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x5c998a32fc0a <unknown>
+#1 0x5c9989dd56e0 <unknown>
+#2 0x5c9989e27117 <unknown>
+#3 0x5c9989e27311 <unknown>
+#4 0x5c9989e75ec4 <unknown>
+#5 0x5c9989e4ce5d <unknown>
+#6 0x5c9989e732cc <unknown>
+#7 0x5c9989e4cc03 <unknown>
+#8 0x5c9989e1947b <unknown>
+#9 0x5c9989e1a0e1 <unknown>
+#10 0x5c998a2f43bb <unknown>
+#11 0x5c998a2f82ef <unknown>
+#12 0x5c998a2dbef9 <unknown>
+#13 0x5c998a2f8e88 <unknown>
+#14 0x5c998a2c064f <unknown>
+#15 0x5c998a31d278 <unknown>
+#16 0x5c998a31d456 <unknown>
+#17 0x5c998a32eae6 <unknown>
+#18 0x7ad74889ca94 <unknown>
+#19 0x7ad748929c3c <unknown>
+
+2025-06-19 08:36:41,537 - ERROR - [!] Login failed for nimadrjtamang@gmail.com: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+#0 0x5c998a32fc0a <unknown>
+#1 0x5c9989dd56e0 <unknown>
+#2 0x5c9989dbbdfe <unknown>
+#3 0x5c9989de4264 <unknown>
+#4 0x5c9989e558af <unknown>
+#5 0x5c9989e72c6c <unknown>
+#6 0x5c9989e4cc03 <unknown>
+#7 0x5c9989e1947b <unknown>
+#8 0x5c9989e1a0e1 <unknown>
+#9 0x5c998a2f43bb <unknown>
+#10 0x5c998a2f82ef <unknown>
+#11 0x5c998a2dbef9 <unknown>
+#12 0x5c998a2f8e88 <unknown>
+#13 0x5c998a2c064f <unknown>
+#14 0x5c998a31d278 <unknown>
+#15 0x5c998a31d456 <unknown>
+#16 0x5c998a32eae6 <unknown>
+#17 0x7ad74889ca94 <unknown>
+#18 0x7ad748929c3c <unknown>
+
+2025-06-19 08:36:48,830 - INFO - Browser closed
+2025-06-19 08:44:28,906 - INFO - Craigslist Automation Bot started
+2025-06-19 08:44:51,730 - INFO - [!] 'make new post' link not found — user is not logged in.
+2025-06-19 08:49:48,651 - INFO - Craigslist Automation Bot started
+2025-06-19 08:50:16,148 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x62039d842c0a <unknown>
+#1 0x62039d2e86e0 <unknown>
+#2 0x62039d33a117 <unknown>
+#3 0x62039d33a311 <unknown>
+#4 0x62039d388ec4 <unknown>
+#5 0x62039d35fe5d <unknown>
+#6 0x62039d3862cc <unknown>
+#7 0x62039d35fc03 <unknown>
+#8 0x62039d32c47b <unknown>
+#9 0x62039d32d0e1 <unknown>
+#10 0x62039d8073bb <unknown>
+#11 0x62039d80b2ef <unknown>
+#12 0x62039d7eeef9 <unknown>
+#13 0x62039d80be88 <unknown>
+#14 0x62039d7d364f <unknown>
+#15 0x62039d830278 <unknown>
+#16 0x62039d830456 <unknown>
+#17 0x62039d841ae6 <unknown>
+#18 0x7040e309ca94 <unknown>
+#19 0x7040e3129c3c <unknown>
+
+2025-06-19 08:50:22,575 - INFO - [!] 'make new post' link not found — user is not logged in.
+2025-06-19 08:50:29,471 - INFO - [*] Email verification required...
+2025-06-19 08:50:33,149 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287584336-JYcr9ezV0lxWXdi1SRPDE6tLnstwcY
+2025-06-19 08:51:06,385 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x62039d842c0a <unknown>
+#1 0x62039d2e86e0 <unknown>
+#2 0x62039d33a117 <unknown>
+#3 0x62039d33a311 <unknown>
+#4 0x62039d388ec4 <unknown>
+#5 0x62039d35fe5d <unknown>
+#6 0x62039d3862cc <unknown>
+#7 0x62039d35fc03 <unknown>
+#8 0x62039d32c47b <unknown>
+#9 0x62039d32d0e1 <unknown>
+#10 0x62039d8073bb <unknown>
+#11 0x62039d80b2ef <unknown>
+#12 0x62039d7eeef9 <unknown>
+#13 0x62039d80be88 <unknown>
+#14 0x62039d7d364f <unknown>
+#15 0x62039d830278 <unknown>
+#16 0x62039d830456 <unknown>
+#17 0x62039d841ae6 <unknown>
+#18 0x7040e309ca94 <unknown>
+#19 0x7040e3129c3c <unknown>
+
+2025-06-19 08:51:06,385 - INFO - Attempting to post ad
+2025-06-19 08:51:10,299 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 08:51:10,323 - INFO - Already logged in. Proceeding to post.
+2025-06-19 08:51:10,324 - INFO - [INFO] Attempting logout...
+2025-06-19 08:51:16,848 - WARNING - [!] Logout link not found. Already logged out?
+2025-06-19 08:51:51,467 - INFO - Sucessfully Ad Posted!
+2025-06-19 08:52:04,284 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x62039d842c0a <unknown>
+#1 0x62039d2e86e0 <unknown>
+#2 0x62039d33a117 <unknown>
+#3 0x62039d33a311 <unknown>
+#4 0x62039d388ec4 <unknown>
+#5 0x62039d35fe5d <unknown>
+#6 0x62039d3862cc <unknown>
+#7 0x62039d35fc03 <unknown>
+#8 0x62039d32c47b <unknown>
+#9 0x62039d32d0e1 <unknown>
+#10 0x62039d8073bb <unknown>
+#11 0x62039d80b2ef <unknown>
+#12 0x62039d7eeef9 <unknown>
+#13 0x62039d80be88 <unknown>
+#14 0x62039d7d364f <unknown>
+#15 0x62039d830278 <unknown>
+#16 0x62039d830456 <unknown>
+#17 0x62039d841ae6 <unknown>
+#18 0x7040e309ca94 <unknown>
+#19 0x7040e3129c3c <unknown>
+
+2025-06-19 08:52:05,677 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 08:52:13,033 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x62039d842c0a <unknown>
+#1 0x62039d2e86e0 <unknown>
+#2 0x62039d33a117 <unknown>
+#3 0x62039d33a311 <unknown>
+#4 0x62039d388ec4 <unknown>
+#5 0x62039d35fe5d <unknown>
+#6 0x62039d3862cc <unknown>
+#7 0x62039d35fc03 <unknown>
+#8 0x62039d32c47b <unknown>
+#9 0x62039d32d0e1 <unknown>
+#10 0x62039d8073bb <unknown>
+#11 0x62039d80b2ef <unknown>
+#12 0x62039d7eeef9 <unknown>
+#13 0x62039d80be88 <unknown>
+#14 0x62039d7d364f <unknown>
+#15 0x62039d830278 <unknown>
+#16 0x62039d830456 <unknown>
+#17 0x62039d841ae6 <unknown>
+#18 0x7040e309ca94 <unknown>
+#19 0x7040e3129c3c <unknown>
+
+2025-06-19 08:52:13,033 - INFO - Attempting to post ad
+2025-06-19 08:52:16,659 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 08:52:16,660 - INFO - Already logged in. Proceeding to post.
+2025-06-19 08:52:16,660 - INFO - [INFO] Attempting logout...
+2025-06-19 08:52:23,886 - WARNING - [!] Logout link not found. Already logged out?
+2025-06-19 08:52:43,795 - INFO - Sucessfully Ad Posted!
+2025-06-19 08:54:13,294 - INFO - Browser closed
+2025-06-19 09:02:01,411 - INFO - Craigslist Automation Bot started
+2025-06-19 09:02:09,530 - WARNING - [!] Could not detect logged-in email: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+#0 0x5602c97f5c0a <unknown>
+#1 0x5602c929b6e0 <unknown>
+#2 0x5602c92700c0 <unknown>
+#3 0x5602c931b6a8 <unknown>
+#4 0x5602c9338c6c <unknown>
+#5 0x5602c9312c03 <unknown>
+#6 0x5602c92df47b <unknown>
+#7 0x5602c92e00e1 <unknown>
+#8 0x5602c97ba3bb <unknown>
+#9 0x5602c97be2ef <unknown>
+#10 0x5602c97a1ef9 <unknown>
+#11 0x5602c97bee88 <unknown>
+#12 0x5602c978664f <unknown>
+#13 0x5602c97e3278 <unknown>
+#14 0x5602c97e3456 <unknown>
+#15 0x5602c97f4ae6 <unknown>
+#16 0x7f378389ca94 <unknown>
+#17 0x7f3783929c3c <unknown>
+
+2025-06-19 09:02:09,540 - INFO - [!] 'make new post' link not found — user is not logged in.
+2025-06-19 09:02:09,681 - INFO - Browser closed
+2025-06-19 09:02:11,998 - INFO - Craigslist Automation Bot started
+2025-06-19 09:02:35,927 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x5adcf3e2dc0a <unknown>
+#1 0x5adcf38d36e0 <unknown>
+#2 0x5adcf3925117 <unknown>
+#3 0x5adcf3925311 <unknown>
+#4 0x5adcf3973ec4 <unknown>
+#5 0x5adcf394ae5d <unknown>
+#6 0x5adcf39712cc <unknown>
+#7 0x5adcf394ac03 <unknown>
+#8 0x5adcf391747b <unknown>
+#9 0x5adcf39180e1 <unknown>
+#10 0x5adcf3df23bb <unknown>
+#11 0x5adcf3df62ef <unknown>
+#12 0x5adcf3dd9ef9 <unknown>
+#13 0x5adcf3df6e88 <unknown>
+#14 0x5adcf3dbe64f <unknown>
+#15 0x5adcf3e1b278 <unknown>
+#16 0x5adcf3e1b456 <unknown>
+#17 0x5adcf3e2cae6 <unknown>
+#18 0x7c800f09ca94 <unknown>
+#19 0x7c800f129c3c <unknown>
+
+2025-06-19 09:02:42,018 - INFO - [!] 'make new post' link not found — user is not logged in.
+2025-06-19 09:02:46,792 - INFO - [*] Email verification required...
+2025-06-19 09:02:49,673 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287585268-ekONarx60yOAFCwBlre0wOQ6HEhOb6
+2025-06-19 09:03:11,624 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x5adcf3e2dc0a <unknown>
+#1 0x5adcf38d36e0 <unknown>
+#2 0x5adcf3925117 <unknown>
+#3 0x5adcf3925311 <unknown>
+#4 0x5adcf3973ec4 <unknown>
+#5 0x5adcf394ae5d <unknown>
+#6 0x5adcf39712cc <unknown>
+#7 0x5adcf394ac03 <unknown>
+#8 0x5adcf391747b <unknown>
+#9 0x5adcf39180e1 <unknown>
+#10 0x5adcf3df23bb <unknown>
+#11 0x5adcf3df62ef <unknown>
+#12 0x5adcf3dd9ef9 <unknown>
+#13 0x5adcf3df6e88 <unknown>
+#14 0x5adcf3dbe64f <unknown>
+#15 0x5adcf3e1b278 <unknown>
+#16 0x5adcf3e1b456 <unknown>
+#17 0x5adcf3e2cae6 <unknown>
+#18 0x7c800f09ca94 <unknown>
+#19 0x7c800f129c3c <unknown>
+
+2025-06-19 09:03:11,625 - INFO - Attempting to post ad
+2025-06-19 09:03:15,314 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 09:03:15,339 - INFO - Already logged in. Proceeding to post.
+2025-06-19 09:03:15,339 - INFO - [INFO] Attempting logout...
+2025-06-19 09:03:17,520 - WARNING - [!] Logout link not found. Already logged out?
+2025-06-19 09:03:49,596 - INFO - Sucessfully Ad Posted!
+2025-06-19 09:03:57,478 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x5adcf3e2dc0a <unknown>
+#1 0x5adcf38d36e0 <unknown>
+#2 0x5adcf3925117 <unknown>
+#3 0x5adcf3925311 <unknown>
+#4 0x5adcf3973ec4 <unknown>
+#5 0x5adcf394ae5d <unknown>
+#6 0x5adcf39712cc <unknown>
+#7 0x5adcf394ac03 <unknown>
+#8 0x5adcf391747b <unknown>
+#9 0x5adcf39180e1 <unknown>
+#10 0x5adcf3df23bb <unknown>
+#11 0x5adcf3df62ef <unknown>
+#12 0x5adcf3dd9ef9 <unknown>
+#13 0x5adcf3df6e88 <unknown>
+#14 0x5adcf3dbe64f <unknown>
+#15 0x5adcf3e1b278 <unknown>
+#16 0x5adcf3e1b456 <unknown>
+#17 0x5adcf3e2cae6 <unknown>
+#18 0x7c800f09ca94 <unknown>
+#19 0x7c800f129c3c <unknown>
+
+2025-06-19 09:04:01,011 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 09:04:07,572 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x5adcf3e2dc0a <unknown>
+#1 0x5adcf38d36e0 <unknown>
+#2 0x5adcf3925117 <unknown>
+#3 0x5adcf3925311 <unknown>
+#4 0x5adcf3973ec4 <unknown>
+#5 0x5adcf394ae5d <unknown>
+#6 0x5adcf39712cc <unknown>
+#7 0x5adcf394ac03 <unknown>
+#8 0x5adcf391747b <unknown>
+#9 0x5adcf39180e1 <unknown>
+#10 0x5adcf3df23bb <unknown>
+#11 0x5adcf3df62ef <unknown>
+#12 0x5adcf3dd9ef9 <unknown>
+#13 0x5adcf3df6e88 <unknown>
+#14 0x5adcf3dbe64f <unknown>
+#15 0x5adcf3e1b278 <unknown>
+#16 0x5adcf3e1b456 <unknown>
+#17 0x5adcf3e2cae6 <unknown>
+#18 0x7c800f09ca94 <unknown>
+#19 0x7c800f129c3c <unknown>
+
+2025-06-19 09:04:07,573 - INFO - Attempting to post ad
+2025-06-19 09:04:10,728 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 09:04:10,728 - INFO - Already logged in. Proceeding to post.
+2025-06-19 09:04:10,729 - INFO - [INFO] Attempting logout...
+2025-06-19 09:04:11,708 - WARNING - [!] Logout link not found. Already logged out?
+2025-06-19 09:04:36,194 - INFO - Sucessfully Ad Posted!
+2025-06-19 09:04:53,637 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x5adcf3e2dc0a <unknown>
+#1 0x5adcf38d36e0 <unknown>
+#2 0x5adcf3925117 <unknown>
+#3 0x5adcf3925311 <unknown>
+#4 0x5adcf3973ec4 <unknown>
+#5 0x5adcf394ae5d <unknown>
+#6 0x5adcf39712cc <unknown>
+#7 0x5adcf394ac03 <unknown>
+#8 0x5adcf391747b <unknown>
+#9 0x5adcf39180e1 <unknown>
+#10 0x5adcf3df23bb <unknown>
+#11 0x5adcf3df62ef <unknown>
+#12 0x5adcf3dd9ef9 <unknown>
+#13 0x5adcf3df6e88 <unknown>
+#14 0x5adcf3dbe64f <unknown>
+#15 0x5adcf3e1b278 <unknown>
+#16 0x5adcf3e1b456 <unknown>
+#17 0x5adcf3e2cae6 <unknown>
+#18 0x7c800f09ca94 <unknown>
+#19 0x7c800f129c3c <unknown>
+
+2025-06-19 09:04:54,926 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 09:05:01,130 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x5adcf3e2dc0a <unknown>
+#1 0x5adcf38d36e0 <unknown>
+#2 0x5adcf3925117 <unknown>
+#3 0x5adcf3925311 <unknown>
+#4 0x5adcf3973ec4 <unknown>
+#5 0x5adcf394ae5d <unknown>
+#6 0x5adcf39712cc <unknown>
+#7 0x5adcf394ac03 <unknown>
+#8 0x5adcf391747b <unknown>
+#9 0x5adcf39180e1 <unknown>
+#10 0x5adcf3df23bb <unknown>
+#11 0x5adcf3df62ef <unknown>
+#12 0x5adcf3dd9ef9 <unknown>
+#13 0x5adcf3df6e88 <unknown>
+#14 0x5adcf3dbe64f <unknown>
+#15 0x5adcf3e1b278 <unknown>
+#16 0x5adcf3e1b456 <unknown>
+#17 0x5adcf3e2cae6 <unknown>
+#18 0x7c800f09ca94 <unknown>
+#19 0x7c800f129c3c <unknown>
+
+2025-06-19 09:05:01,131 - INFO - Attempting to post ad
+2025-06-19 09:05:03,304 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 09:05:03,304 - INFO - Already logged in. Proceeding to post.
+2025-06-19 09:05:03,305 - INFO - [INFO] Attempting logout...
+2025-06-19 09:05:06,214 - WARNING - [!] Logout link not found. Already logged out?
+2025-06-19 09:05:11,388 - ERROR - Ad posting error: Message: invalid session id
+Stacktrace:
+#0 0x5adcf3e2dc0a <unknown>
+#1 0x5adcf38d3533 <unknown>
+#2 0x5adcf391663f <unknown>
+#3 0x5adcf394ad36 <unknown>
+#4 0x5adcf39456b7 <unknown>
+#5 0x5adcf39447f5 <unknown>
+#6 0x5adcf389c758 <unknown>
+#7 0x5adcf3df23bb <unknown>
+#8 0x5adcf3df62ef <unknown>
+#9 0x5adcf3dd9ef9 <unknown>
+#10 0x5adcf3df6e88 <unknown>
+#11 0x5adcf3dbe64f <unknown>
+#12 0x5adcf389a57f <unknown>
+#13 0x7c800f02a1ca <unknown>
+#14 0x7c800f02a28b __libc_start_main
+#15 0x5adcf386116a _start
+
+2025-06-19 09:14:19,193 - INFO - Craigslist Automation Bot started
+2025-06-19 09:14:20,365 - INFO - Browser closed
+2025-06-19 09:16:11,346 - INFO - Craigslist Automation Bot started
+2025-06-19 09:16:41,525 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x6475d8fc7c0a <unknown>
+#1 0x6475d8a6d6e0 <unknown>
+#2 0x6475d8abf117 <unknown>
+#3 0x6475d8abf311 <unknown>
+#4 0x6475d8b0dec4 <unknown>
+#5 0x6475d8ae4e5d <unknown>
+#6 0x6475d8b0b2cc <unknown>
+#7 0x6475d8ae4c03 <unknown>
+#8 0x6475d8ab147b <unknown>
+#9 0x6475d8ab20e1 <unknown>
+#10 0x6475d8f8c3bb <unknown>
+#11 0x6475d8f902ef <unknown>
+#12 0x6475d8f73ef9 <unknown>
+#13 0x6475d8f90e88 <unknown>
+#14 0x6475d8f5864f <unknown>
+#15 0x6475d8fb5278 <unknown>
+#16 0x6475d8fb5456 <unknown>
+#17 0x6475d8fc6ae6 <unknown>
+#18 0x7babcc49ca94 <unknown>
+#19 0x7babcc529c3c <unknown>
+
+2025-06-19 09:16:47,161 - INFO - [*] Email verification required...
+2025-06-19 09:16:49,925 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287586318-Y78APrHokF7J9hOHBMDhhB7eVFGaob
+2025-06-19 09:17:34,509 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x6475d8fc7c0a <unknown>
+#1 0x6475d8a6d6e0 <unknown>
+#2 0x6475d8abf117 <unknown>
+#3 0x6475d8abf311 <unknown>
+#4 0x6475d8b0dec4 <unknown>
+#5 0x6475d8ae4e5d <unknown>
+#6 0x6475d8b0b2cc <unknown>
+#7 0x6475d8ae4c03 <unknown>
+#8 0x6475d8ab147b <unknown>
+#9 0x6475d8ab20e1 <unknown>
+#10 0x6475d8f8c3bb <unknown>
+#11 0x6475d8f902ef <unknown>
+#12 0x6475d8f73ef9 <unknown>
+#13 0x6475d8f90e88 <unknown>
+#14 0x6475d8f5864f <unknown>
+#15 0x6475d8fb5278 <unknown>
+#16 0x6475d8fb5456 <unknown>
+#17 0x6475d8fc6ae6 <unknown>
+#18 0x7babcc49ca94 <unknown>
+#19 0x7babcc529c3c <unknown>
+
+2025-06-19 09:17:58,198 - ERROR - [!] Login failed for nimadrjtamang@gmail.com: Message: 
+Stacktrace:
+#0 0x6475d8fc7c0a <unknown>
+#1 0x6475d8a6d6e0 <unknown>
+#2 0x6475d8abf117 <unknown>
+#3 0x6475d8abf311 <unknown>
+#4 0x6475d8b0dec4 <unknown>
+#5 0x6475d8ae4e5d <unknown>
+#6 0x6475d8b0b2cc <unknown>
+#7 0x6475d8ae4c03 <unknown>
+#8 0x6475d8ab147b <unknown>
+#9 0x6475d8ab20e1 <unknown>
+#10 0x6475d8f8c3bb <unknown>
+#11 0x6475d8f902ef <unknown>
+#12 0x6475d8f73ef9 <unknown>
+#13 0x6475d8f90e88 <unknown>
+#14 0x6475d8f5864f <unknown>
+#15 0x6475d8fb5278 <unknown>
+#16 0x6475d8fb5456 <unknown>
+#17 0x6475d8fc6ae6 <unknown>
+#18 0x7babcc49ca94 <unknown>
+#19 0x7babcc529c3c <unknown>
+
+2025-06-19 09:24:57,578 - INFO - Craigslist Automation Bot started
+2025-06-19 09:25:15,293 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x638caf79dc0a <unknown>
+#1 0x638caf2436e0 <unknown>
+#2 0x638caf295117 <unknown>
+#3 0x638caf295311 <unknown>
+#4 0x638caf2e3ec4 <unknown>
+#5 0x638caf2bae5d <unknown>
+#6 0x638caf2e12cc <unknown>
+#7 0x638caf2bac03 <unknown>
+#8 0x638caf28747b <unknown>
+#9 0x638caf2880e1 <unknown>
+#10 0x638caf7623bb <unknown>
+#11 0x638caf7662ef <unknown>
+#12 0x638caf749ef9 <unknown>
+#13 0x638caf766e88 <unknown>
+#14 0x638caf72e64f <unknown>
+#15 0x638caf78b278 <unknown>
+#16 0x638caf78b456 <unknown>
+#17 0x638caf79cae6 <unknown>
+#18 0x77e795c9ca94 <unknown>
+#19 0x77e795d29c3c <unknown>
+
+2025-06-19 09:25:21,454 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x638caf79dc0a <unknown>
+#1 0x638caf2436e0 <unknown>
+#2 0x638caf295117 <unknown>
+#3 0x638caf295311 <unknown>
+#4 0x638caf2e3ec4 <unknown>
+#5 0x638caf2bae5d <unknown>
+#6 0x638caf2e12cc <unknown>
+#7 0x638caf2bac03 <unknown>
+#8 0x638caf28747b <unknown>
+#9 0x638caf2880e1 <unknown>
+#10 0x638caf7623bb <unknown>
+#11 0x638caf7662ef <unknown>
+#12 0x638caf749ef9 <unknown>
+#13 0x638caf766e88 <unknown>
+#14 0x638caf72e64f <unknown>
+#15 0x638caf78b278 <unknown>
+#16 0x638caf78b456 <unknown>
+#17 0x638caf79cae6 <unknown>
+#18 0x77e795c9ca94 <unknown>
+#19 0x77e795d29c3c <unknown>
+
+2025-06-19 09:25:27,855 - INFO - [*] Email verification required...
+2025-06-19 09:25:30,725 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287586996-Bcckmu0gDHnIF8OxOtoVaR1BPJVnxs
+2025-06-19 09:26:00,111 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x638caf79dc0a <unknown>
+#1 0x638caf2436e0 <unknown>
+#2 0x638caf295117 <unknown>
+#3 0x638caf295311 <unknown>
+#4 0x638caf2e3ec4 <unknown>
+#5 0x638caf2bae5d <unknown>
+#6 0x638caf2e12cc <unknown>
+#7 0x638caf2bac03 <unknown>
+#8 0x638caf28747b <unknown>
+#9 0x638caf2880e1 <unknown>
+#10 0x638caf7623bb <unknown>
+#11 0x638caf7662ef <unknown>
+#12 0x638caf749ef9 <unknown>
+#13 0x638caf766e88 <unknown>
+#14 0x638caf72e64f <unknown>
+#15 0x638caf78b278 <unknown>
+#16 0x638caf78b456 <unknown>
+#17 0x638caf79cae6 <unknown>
+#18 0x77e795c9ca94 <unknown>
+#19 0x77e795d29c3c <unknown>
+
+2025-06-19 09:26:06,351 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x638caf79dc0a <unknown>
+#1 0x638caf2436e0 <unknown>
+#2 0x638caf295117 <unknown>
+#3 0x638caf295311 <unknown>
+#4 0x638caf2e3ec4 <unknown>
+#5 0x638caf2bae5d <unknown>
+#6 0x638caf2e12cc <unknown>
+#7 0x638caf2bac03 <unknown>
+#8 0x638caf28747b <unknown>
+#9 0x638caf2880e1 <unknown>
+#10 0x638caf7623bb <unknown>
+#11 0x638caf7662ef <unknown>
+#12 0x638caf749ef9 <unknown>
+#13 0x638caf766e88 <unknown>
+#14 0x638caf72e64f <unknown>
+#15 0x638caf78b278 <unknown>
+#16 0x638caf78b456 <unknown>
+#17 0x638caf79cae6 <unknown>
+#18 0x77e795c9ca94 <unknown>
+#19 0x77e795d29c3c <unknown>
+
+2025-06-19 09:26:27,811 - ERROR - [!] Login failed for nimadrjtamang@gmail.com: Message: 
+Stacktrace:
+#0 0x638caf79dc0a <unknown>
+#1 0x638caf2436e0 <unknown>
+#2 0x638caf295117 <unknown>
+#3 0x638caf295311 <unknown>
+#4 0x638caf2e3ec4 <unknown>
+#5 0x638caf2bae5d <unknown>
+#6 0x638caf2e12cc <unknown>
+#7 0x638caf2bac03 <unknown>
+#8 0x638caf28747b <unknown>
+#9 0x638caf2880e1 <unknown>
+#10 0x638caf7623bb <unknown>
+#11 0x638caf7662ef <unknown>
+#12 0x638caf749ef9 <unknown>
+#13 0x638caf766e88 <unknown>
+#14 0x638caf72e64f <unknown>
+#15 0x638caf78b278 <unknown>
+#16 0x638caf78b456 <unknown>
+#17 0x638caf79cae6 <unknown>
+#18 0x77e795c9ca94 <unknown>
+#19 0x77e795d29c3c <unknown>
+
+2025-06-19 09:30:37,984 - INFO - Craigslist Automation Bot started
+2025-06-19 09:31:00,596 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x6410a5c81c0a <unknown>
+#1 0x6410a57276e0 <unknown>
+#2 0x6410a5779117 <unknown>
+#3 0x6410a5779311 <unknown>
+#4 0x6410a57c7ec4 <unknown>
+#5 0x6410a579ee5d <unknown>
+#6 0x6410a57c52cc <unknown>
+#7 0x6410a579ec03 <unknown>
+#8 0x6410a576b47b <unknown>
+#9 0x6410a576c0e1 <unknown>
+#10 0x6410a5c463bb <unknown>
+#11 0x6410a5c4a2ef <unknown>
+#12 0x6410a5c2def9 <unknown>
+#13 0x6410a5c4ae88 <unknown>
+#14 0x6410a5c1264f <unknown>
+#15 0x6410a5c6f278 <unknown>
+#16 0x6410a5c6f456 <unknown>
+#17 0x6410a5c80ae6 <unknown>
+#18 0x7c2afa29ca94 <unknown>
+#19 0x7c2afa329c3c <unknown>
+
+2025-06-19 09:31:00,596 - INFO - current email = None
+2025-06-19 09:31:06,421 - INFO - [*] Email verification required...
+2025-06-19 09:31:10,991 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287587414-UXie0g4aAtXyqJDpMrexPYbDx8DKTL
+2025-06-19 09:31:48,387 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x6410a5c81c0a <unknown>
+#1 0x6410a57276e0 <unknown>
+#2 0x6410a5779117 <unknown>
+#3 0x6410a5779311 <unknown>
+#4 0x6410a57c7ec4 <unknown>
+#5 0x6410a579ee5d <unknown>
+#6 0x6410a57c52cc <unknown>
+#7 0x6410a579ec03 <unknown>
+#8 0x6410a576b47b <unknown>
+#9 0x6410a576c0e1 <unknown>
+#10 0x6410a5c463bb <unknown>
+#11 0x6410a5c4a2ef <unknown>
+#12 0x6410a5c2def9 <unknown>
+#13 0x6410a5c4ae88 <unknown>
+#14 0x6410a5c1264f <unknown>
+#15 0x6410a5c6f278 <unknown>
+#16 0x6410a5c6f456 <unknown>
+#17 0x6410a5c80ae6 <unknown>
+#18 0x7c2afa29ca94 <unknown>
+#19 0x7c2afa329c3c <unknown>
+
+2025-06-19 09:31:48,387 - INFO - current email = None
+2025-06-19 09:32:09,482 - ERROR - [!] Login failed for raiarik97@gmail.com: Message: 
+Stacktrace:
+#0 0x6410a5c81c0a <unknown>
+#1 0x6410a57276e0 <unknown>
+#2 0x6410a5779117 <unknown>
+#3 0x6410a5779311 <unknown>
+#4 0x6410a57c7ec4 <unknown>
+#5 0x6410a579ee5d <unknown>
+#6 0x6410a57c52cc <unknown>
+#7 0x6410a579ec03 <unknown>
+#8 0x6410a576b47b <unknown>
+#9 0x6410a576c0e1 <unknown>
+#10 0x6410a5c463bb <unknown>
+#11 0x6410a5c4a2ef <unknown>
+#12 0x6410a5c2def9 <unknown>
+#13 0x6410a5c4ae88 <unknown>
+#14 0x6410a5c1264f <unknown>
+#15 0x6410a5c6f278 <unknown>
+#16 0x6410a5c6f456 <unknown>
+#17 0x6410a5c80ae6 <unknown>
+#18 0x7c2afa29ca94 <unknown>
+#19 0x7c2afa329c3c <unknown>
+
+2025-06-19 09:33:02,205 - INFO - Browser closed
+2025-06-19 09:41:46,617 - INFO - Craigslist Automation Bot started
+2025-06-19 09:42:08,755 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x603545bffc0a <unknown>
+#1 0x6035456a56e0 <unknown>
+#2 0x6035456f7117 <unknown>
+#3 0x6035456f7311 <unknown>
+#4 0x603545745ec4 <unknown>
+#5 0x60354571ce5d <unknown>
+#6 0x6035457432cc <unknown>
+#7 0x60354571cc03 <unknown>
+#8 0x6035456e947b <unknown>
+#9 0x6035456ea0e1 <unknown>
+#10 0x603545bc43bb <unknown>
+#11 0x603545bc82ef <unknown>
+#12 0x603545babef9 <unknown>
+#13 0x603545bc8e88 <unknown>
+#14 0x603545b9064f <unknown>
+#15 0x603545bed278 <unknown>
+#16 0x603545bed456 <unknown>
+#17 0x603545bfeae6 <unknown>
+#18 0x70a51f09ca94 <unknown>
+#19 0x70a51f129c3c <unknown>
+
+2025-06-19 09:42:08,755 - INFO - current email = None
+2025-06-19 09:42:13,335 - INFO - [*] Email verification required...
+2025-06-19 09:42:16,345 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287588134-rahvAobRCnIqjSZf662BxnCQSsdaVZ
+2025-06-19 09:42:34,207 - WARNING - [!] Could not detect logged-in email: name 're' is not defined
+2025-06-19 09:42:34,207 - INFO - current email = None
+2025-06-19 09:42:56,387 - ERROR - [!] Login failed for nimadrjtamang@gmail.com: Message: 
+Stacktrace:
+#0 0x603545bffc0a <unknown>
+#1 0x6035456a56e0 <unknown>
+#2 0x6035456f7117 <unknown>
+#3 0x6035456f7311 <unknown>
+#4 0x603545745ec4 <unknown>
+#5 0x60354571ce5d <unknown>
+#6 0x6035457432cc <unknown>
+#7 0x60354571cc03 <unknown>
+#8 0x6035456e947b <unknown>
+#9 0x6035456ea0e1 <unknown>
+#10 0x603545bc43bb <unknown>
+#11 0x603545bc82ef <unknown>
+#12 0x603545babef9 <unknown>
+#13 0x603545bc8e88 <unknown>
+#14 0x603545b9064f <unknown>
+#15 0x603545bed278 <unknown>
+#16 0x603545bed456 <unknown>
+#17 0x603545bfeae6 <unknown>
+#18 0x70a51f09ca94 <unknown>
+#19 0x70a51f129c3c <unknown>
+
+2025-06-19 10:03:32,053 - INFO - Craigslist Automation Bot started
+2025-06-19 10:03:53,037 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x5e20e80d1c0a <unknown>
+#1 0x5e20e7b776e0 <unknown>
+#2 0x5e20e7bc9117 <unknown>
+#3 0x5e20e7bc9311 <unknown>
+#4 0x5e20e7c17ec4 <unknown>
+#5 0x5e20e7beee5d <unknown>
+#6 0x5e20e7c152cc <unknown>
+#7 0x5e20e7beec03 <unknown>
+#8 0x5e20e7bbb47b <unknown>
+#9 0x5e20e7bbc0e1 <unknown>
+#10 0x5e20e80963bb <unknown>
+#11 0x5e20e809a2ef <unknown>
+#12 0x5e20e807def9 <unknown>
+#13 0x5e20e809ae88 <unknown>
+#14 0x5e20e806264f <unknown>
+#15 0x5e20e80bf278 <unknown>
+#16 0x5e20e80bf456 <unknown>
+#17 0x5e20e80d0ae6 <unknown>
+#18 0x7c7519a9ca94 <unknown>
+#19 0x7c7519b29c3c <unknown>
+
+2025-06-19 10:03:53,037 - INFO - current email = None
+2025-06-19 10:03:58,679 - INFO - [*] Email verification required...
+2025-06-19 10:04:01,685 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287589555-1W6sLuJnsnHrd2htYqzRoTIT0WRXhF
+2025-06-19 10:04:21,441 - INFO - Extracted email: raiarik97@gmail.com
+2025-06-19 10:04:21,441 - INFO - current email = raiarik97@gmail.com
+2025-06-19 10:04:21,441 - INFO - [!] Logged in as raiarik97@gmail.com, logging out to switch to nimadrjtamang@gmail.com
+2025-06-19 10:04:21,441 - INFO - [INFO] Attempting logout...
+2025-06-19 10:04:22,217 - INFO - [✓] Successfully logged out.
+2025-06-19 10:04:27,304 - INFO - [*] Email verification required...
+2025-06-19 10:04:31,147 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287589586-lZkuVj9s7rsZhrYG6ptBVqqXkT2ltN
+2025-06-19 10:04:47,943 - INFO - Ad rewritten successfully
+2025-06-19 10:04:53,471 - INFO - Ad rewritten successfully
+2025-06-19 10:04:57,758 - INFO - Extracted email: nimadrjtamang@gmail.com
+2025-06-19 10:04:57,759 - INFO - current email = nimadrjtamang@gmail.com
+2025-06-19 10:04:57,759 - INFO - [✓] Already logged in as nimadrjtamang@gmail.com
+2025-06-19 10:04:57,759 - INFO - Attempting to post ad
+2025-06-19 10:05:01,729 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 10:05:01,730 - INFO - Already logged in. Proceeding to post.
+2025-06-19 10:05:33,783 - INFO - Sucessfully Ad Posted!
+2025-06-19 10:05:39,769 - INFO - Extracted email: nimadrjtamang@gmail.com
+2025-06-19 10:05:39,769 - INFO - current email = nimadrjtamang@gmail.com
+2025-06-19 10:05:39,769 - INFO - [!] Logged in as nimadrjtamang@gmail.com, logging out to switch to raiarik97@gmail.com
+2025-06-19 10:05:39,770 - INFO - [INFO] Attempting logout...
+2025-06-19 10:05:40,624 - INFO - [✓] Successfully logged out.
+2025-06-19 10:05:45,813 - INFO - [*] Email verification required...
+2025-06-19 10:05:49,073 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287589659-ZgMMNFmudqgC6EHJn5U7tlnKa0iWJ4
+2025-06-19 10:10:24,963 - INFO - Craigslist Automation Bot started
+2025-06-19 10:10:53,224 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x65141310dc0a <unknown>
+#1 0x651412bb36e0 <unknown>
+#2 0x651412c05117 <unknown>
+#3 0x651412c05311 <unknown>
+#4 0x651412c53ec4 <unknown>
+#5 0x651412c2ae5d <unknown>
+#6 0x651412c512cc <unknown>
+#7 0x651412c2ac03 <unknown>
+#8 0x651412bf747b <unknown>
+#9 0x651412bf80e1 <unknown>
+#10 0x6514130d23bb <unknown>
+#11 0x6514130d62ef <unknown>
+#12 0x6514130b9ef9 <unknown>
+#13 0x6514130d6e88 <unknown>
+#14 0x65141309e64f <unknown>
+#15 0x6514130fb278 <unknown>
+#16 0x6514130fb456 <unknown>
+#17 0x65141310cae6 <unknown>
+#18 0x7ed0c2e9ca94 <unknown>
+#19 0x7ed0c2f29c3c <unknown>
+
+2025-06-19 10:10:53,225 - INFO - current email = None
+2025-06-19 10:10:58,722 - INFO - [*] Email verification required...
+2025-06-19 10:11:01,698 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287589939-1gszq0Ex1iQrmnVdEkb3r8ekXIWh2d
+2025-06-19 10:14:24,337 - INFO - Extracted email: raiarik97@gmail.com
+2025-06-19 10:14:24,337 - INFO - current email = raiarik97@gmail.com
+2025-06-19 10:14:24,337 - INFO - [✓] Already logged in as raiarik97@gmail.com
+2025-06-19 10:14:24,338 - INFO - Attempting to post ad
+2025-06-19 10:14:27,708 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 10:14:27,709 - INFO - Already logged in. Proceeding to post.
+2025-06-19 10:14:48,530 - INFO - No images to upload
+2025-06-19 10:14:57,348 - INFO - Successfully Ad Posted!
+2025-06-19 10:16:23,320 - INFO - Craigslist Automation Bot started
+2025-06-19 10:17:30,276 - INFO - Craigslist Automation Bot started
+2025-06-19 10:17:49,144 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x5613fb0ddc0a <unknown>
+#1 0x5613fab836e0 <unknown>
+#2 0x5613fabd5117 <unknown>
+#3 0x5613fabd5311 <unknown>
+#4 0x5613fac23ec4 <unknown>
+#5 0x5613fabfae5d <unknown>
+#6 0x5613fac212cc <unknown>
+#7 0x5613fabfac03 <unknown>
+#8 0x5613fabc747b <unknown>
+#9 0x5613fabc80e1 <unknown>
+#10 0x5613fb0a23bb <unknown>
+#11 0x5613fb0a62ef <unknown>
+#12 0x5613fb089ef9 <unknown>
+#13 0x5613fb0a6e88 <unknown>
+#14 0x5613fb06e64f <unknown>
+#15 0x5613fb0cb278 <unknown>
+#16 0x5613fb0cb456 <unknown>
+#17 0x5613fb0dcae6 <unknown>
+#18 0x740604c9ca94 <unknown>
+#19 0x740604d29c3c <unknown>
+
+2025-06-19 10:17:49,144 - INFO - current email = None
+2025-06-19 10:17:54,360 - INFO - [*] Email verification required...
+2025-06-19 10:18:02,456 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287590410-cIMyI94WIJAgHx1mBB9hLjNFfJr4UL
+2025-06-19 10:18:33,688 - INFO - Ad rewritten successfully
+2025-06-19 10:19:06,816 - INFO - Extracted email: raiarik97@gmail.com
+2025-06-19 10:19:06,816 - INFO - current email = raiarik97@gmail.com
+2025-06-19 10:19:06,816 - INFO - [✓] Already logged in as raiarik97@gmail.com
+2025-06-19 10:19:06,816 - INFO - Attempting to post ad
+2025-06-19 10:19:10,179 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 10:19:10,180 - INFO - Already logged in. Proceeding to post.
+2025-06-19 10:19:31,275 - INFO - No images to upload
+2025-06-19 10:19:39,883 - INFO - Successfully Ad Posted!
+2025-06-19 10:19:39,967 - ERROR - Ad posting error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+#0 0x5613fb0ddc0a <unknown>
+#1 0x5613fab836e0 <unknown>
+#2 0x5613fab6b381 <unknown>
+#3 0x5613fab6b085 <unknown>
+#4 0x5613fab6a029 <unknown>
+#5 0x5613fab92264 <unknown>
+#6 0x5613fac038af <unknown>
+#7 0x5613fac20c6c <unknown>
+#8 0x5613fabfac03 <unknown>
+#9 0x5613fabc747b <unknown>
+#10 0x5613fabc80e1 <unknown>
+#11 0x5613fb0a23bb <unknown>
+#12 0x5613fb0a62ef <unknown>
+#13 0x5613fb089ef9 <unknown>
+#14 0x5613fb0a6e88 <unknown>
+#15 0x5613fb06e64f <unknown>
+#16 0x5613fb0cb278 <unknown>
+#17 0x5613fb0cb456 <unknown>
+#18 0x5613fb0dcae6 <unknown>
+#19 0x740604c9ca94 <unknown>
+#20 0x740604d29c3c <unknown>
+
+2025-06-19 10:22:55,726 - INFO - Craigslist Automation Bot started
+2025-06-19 10:23:15,229 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x61274cb34c0a <unknown>
+#1 0x61274c5da6e0 <unknown>
+#2 0x61274c62c117 <unknown>
+#3 0x61274c62c311 <unknown>
+#4 0x61274c67aec4 <unknown>
+#5 0x61274c651e5d <unknown>
+#6 0x61274c6782cc <unknown>
+#7 0x61274c651c03 <unknown>
+#8 0x61274c61e47b <unknown>
+#9 0x61274c61f0e1 <unknown>
+#10 0x61274caf93bb <unknown>
+#11 0x61274cafd2ef <unknown>
+#12 0x61274cae0ef9 <unknown>
+#13 0x61274cafde88 <unknown>
+#14 0x61274cac564f <unknown>
+#15 0x61274cb22278 <unknown>
+#16 0x61274cb22456 <unknown>
+#17 0x61274cb33ae6 <unknown>
+#18 0x7398b529ca94 <unknown>
+#19 0x7398b5329c3c <unknown>
+
+2025-06-19 10:23:15,230 - INFO - current email = None
+2025-06-19 10:23:20,705 - INFO - [*] Email verification required...
+2025-06-19 10:23:23,786 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287590718-tlLouBZzwgif3EQJ3VyGLZiVCt7U25
+2025-06-19 10:24:08,748 - INFO - Extracted email: raiarik97@gmail.com
+2025-06-19 10:24:08,748 - INFO - current email = raiarik97@gmail.com
+2025-06-19 10:24:08,748 - INFO - [✓] Already logged in as raiarik97@gmail.com
+2025-06-19 10:24:08,748 - INFO - Attempting to post ad
+2025-06-19 10:24:11,974 - INFO - [✓] Detected 'make new post' link — user is logged in.
+2025-06-19 10:24:11,975 - INFO - Already logged in. Proceeding to post.
+2025-06-19 10:24:32,395 - INFO - Uploading 1 images
+2025-06-19 10:24:32,487 - INFO - Uploaded image: /home/killuaz01/Desktop/Desktop_Files/yay.png
+2025-06-19 10:24:40,882 - INFO - Successfully Ad Posted!
+2025-06-19 12:00:00,953 - INFO - Craigslist Automation Bot started
+2025-06-19 12:00:22,034 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x5bc7dbbdfc0a <unknown>
+#1 0x5bc7db6856e0 <unknown>
+#2 0x5bc7db6d7117 <unknown>
+#3 0x5bc7db6d7311 <unknown>
+#4 0x5bc7db725ec4 <unknown>
+#5 0x5bc7db6fce5d <unknown>
+#6 0x5bc7db7232cc <unknown>
+#7 0x5bc7db6fcc03 <unknown>
+#8 0x5bc7db6c947b <unknown>
+#9 0x5bc7db6ca0e1 <unknown>
+#10 0x5bc7dbba43bb <unknown>
+#11 0x5bc7dbba82ef <unknown>
+#12 0x5bc7dbb8bef9 <unknown>
+#13 0x5bc7dbba8e88 <unknown>
+#14 0x5bc7dbb7064f <unknown>
+#15 0x5bc7dbbcd278 <unknown>
+#16 0x5bc7dbbcd456 <unknown>
+#17 0x5bc7dbbdeae6 <unknown>
+#18 0x7c150dc9ca94 <unknown>
+#19 0x7c150dd29c3c <unknown>
+
+2025-06-19 12:00:22,035 - INFO - current email = None
+2025-06-19 12:00:27,820 - INFO - [*] Email verification required...
+2025-06-19 12:00:31,105 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287595214-sktvnDYqyDrVq0bJnc4bYG3SGHeT8n
+2025-06-19 12:01:02,885 - INFO - Extracted email: raiarik97@gmail.com
+2025-06-19 12:01:02,886 - INFO - current email = raiarik97@gmail.com
+2025-06-19 12:01:02,886 - INFO - [!] Logged in as raiarik97@gmail.com, logging out to switch to nimadrjtamang@gmail.com
+2025-06-19 12:01:02,886 - INFO - [INFO] Attempting logout...
+2025-06-19 12:01:03,727 - INFO - [✓] Successfully logged out.
+2025-06-19 12:01:08,720 - INFO - [*] Email verification required...
+2025-06-19 12:01:12,220 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287595241-SHheuHlFPijgJpqAjShzsaTgg2fjUY
+2025-06-19 12:01:26,178 - INFO - [✓] Loaded session cookies for raiarik97@gmail.com
+2025-06-19 12:01:33,057 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x5bc7dbbdfc0a <unknown>
+#1 0x5bc7db6856e0 <unknown>
+#2 0x5bc7db6d7117 <unknown>
+#3 0x5bc7db6d7311 <unknown>
+#4 0x5bc7db725ec4 <unknown>
+#5 0x5bc7db6fce5d <unknown>
+#6 0x5bc7db7232cc <unknown>
+#7 0x5bc7db6fcc03 <unknown>
+#8 0x5bc7db6c947b <unknown>
+#9 0x5bc7db6ca0e1 <unknown>
+#10 0x5bc7dbba43bb <unknown>
+#11 0x5bc7dbba82ef <unknown>
+#12 0x5bc7dbb8bef9 <unknown>
+#13 0x5bc7dbba8e88 <unknown>
+#14 0x5bc7dbb7064f <unknown>
+#15 0x5bc7dbbcd278 <unknown>
+#16 0x5bc7dbbcd456 <unknown>
+#17 0x5bc7dbbdeae6 <unknown>
+#18 0x7c150dc9ca94 <unknown>
+#19 0x7c150dd29c3c <unknown>
+
+2025-06-19 12:01:33,057 - WARNING - [!] Session cookies invalid or expired for raiarik97@gmail.com
+2025-06-19 12:01:39,124 - WARNING - [!] Could not detect logged-in email: Message: 
+Stacktrace:
+#0 0x5bc7dbbdfc0a <unknown>
+#1 0x5bc7db6856e0 <unknown>
+#2 0x5bc7db6d7117 <unknown>
+#3 0x5bc7db6d7311 <unknown>
+#4 0x5bc7db725ec4 <unknown>
+#5 0x5bc7db6fce5d <unknown>
+#6 0x5bc7db7232cc <unknown>
+#7 0x5bc7db6fcc03 <unknown>
+#8 0x5bc7db6c947b <unknown>
+#9 0x5bc7db6ca0e1 <unknown>
+#10 0x5bc7dbba43bb <unknown>
+#11 0x5bc7dbba82ef <unknown>
+#12 0x5bc7dbb8bef9 <unknown>
+#13 0x5bc7dbba8e88 <unknown>
+#14 0x5bc7dbb7064f <unknown>
+#15 0x5bc7dbbcd278 <unknown>
+#16 0x5bc7dbbcd456 <unknown>
+#17 0x5bc7dbbdeae6 <unknown>
+#18 0x7c150dc9ca94 <unknown>
+#19 0x7c150dd29c3c <unknown>
+
+2025-06-19 12:01:39,125 - INFO - current email = None
+2025-06-19 12:01:44,414 - INFO - [*] Email verification required...
+2025-06-19 12:01:47,489 - INFO - [*] Visiting verification link: https://accounts.craigslist.org/login/onetime?key=287595268-aRp4awtrlx48qBGwv6v3tfOe4uPDNV
+2025-06-19 12:02:21,652 - INFO - [✓] Loaded session cookies for nimadrjtamang@gmail.com
+2025-06-19 12:02:24,224 - INFO - Extracted email: nimadrjtamang@gmail.com
+2025-06-19 12:02:24,224 - INFO - [✓] Session valid. Logged in as nimadrjtamang@gmail.com
+2025-06-19 12:02:30,686 - INFO - [✓] Loaded session cookies for raiarik97@gmail.com
+2025-06-19 12:02:33,700 - INFO - Extracted email: raiarik97@gmail.com
+2025-06-19 12:02:33,700 - INFO - [✓] Session valid. Logged in as raiarik97@gmail.com

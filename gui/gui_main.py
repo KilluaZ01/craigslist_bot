@@ -28,9 +28,22 @@ class CraigslistBotGUI:
         self.control_frame.pack(pady=10)
         tk.Button(self.control_frame, text="Rewrite Ad", command=self.rewrite_ad, bg="#444", fg="white", width=15).pack(side="left", padx=10)
         tk.Button(self.control_frame, text="Post Ad", command=self.post_ad, bg="#00aa00", fg="white", width=15).pack(side="left", padx=10)
+        tk.Button(self.control_frame, text="Login As", command=self.login, bg="#007acc", fg="white", width=15).pack(side="left", padx=10)
+
+    def get_account_credentials(self, selected_email):
+        try:
+            import os, json
+            accounts_file = os.path.join(os.path.dirname(__file__), '../data/accounts.json')
+            with open(accounts_file, 'r') as f:
+                accounts = json.load(f)
+            for acc in accounts:
+                if acc["email"].lower() == selected_email.lower():
+                    return acc["password"], acc.get("app_password")
+        except Exception as e:
+            self.logger.error(f"[ERROR] Could not load account credentials: {str(e)}")
+        return None, None
 
         # Perform login on initialization
-        self.login()
 
     def login(self):
         """Perform login using selected account."""
@@ -39,16 +52,25 @@ class CraigslistBotGUI:
             self.log_console.insert("[ERROR] No account selected for login\n")
             messagebox.showerror("Error", "Please add an account first")
             return False
-        self.log_console.insert(f"[INFO] Logging in with account: {selected_account}\n")
-        success = self.bot.login(email=selected_account)
-        if success:
-            self.log_console.insert(f"[INFO] Successfully logged in with account: {selected_account}\n")
-            return True
-        else:
-            self.log_console.insert(f"[ERROR] Failed to log in with account: {selected_account}\n")
-            messagebox.showerror("Error", f"Failed to log in with account: {selected_account}")
+
+        # Get password
+        password, _ = self.get_account_credentials(selected_account)
+        if not password:
+            self.log_console.insert(f"[ERROR] No credentials found for {selected_account}\n")
+            messagebox.showerror("Error", f"No password found for {selected_account}")
             return False
 
+        self.log_console.insert(f"[INFO] Logging in as {selected_account}...\n")
+        success = self.bot.login(email=selected_account, password=password)
+        if success:
+            self.log_console.insert(f"[✓] Successfully logged in as {selected_account}\n")
+            return True
+        else:
+            self.log_console.insert(f"[ERROR] Failed to log in as {selected_account}\n")
+            messagebox.showerror("Error", f"Failed to log in as {selected_account}")
+            return False
+
+    
     def rewrite_ad(self):
         """Rewrite ad using Gemini API."""
         title = self.ad_config.title_entry.get()
@@ -98,13 +120,18 @@ class CraigslistBotGUI:
         self.log_console.insert("=" * 50 + "\n")  # Add separator line for clarity
 
     def post_ad(self):
-        """Post ad using selected account."""
-        if self.account_manager.selected_account.get() == "No accounts added":
+        selected_account = self.account_manager.selected_account.get()
+
+        if selected_account == "No accounts added":
             self.log_console.insert("[ERROR] No account selected for posting\n")
             messagebox.showerror("Error", "Please add an account first")
             return
-        if not self.bot.login(email=self.account_manager.selected_account.get()):
-            return  # Stop if login fails
+
+        # Make sure we're logged into the right account
+        if not self.login():
+            return
+
+        # Include images in ad_details
         ad_details = {
             "make": self.ad_config.ad_details["make"].get(),
             "model": self.ad_config.ad_details["model"].get(),
@@ -112,10 +139,13 @@ class CraigslistBotGUI:
             "dimensions": self.ad_config.ad_details["dimensions"].get(),
             "condition": self.ad_config.ad_details["condition"].get(),
             "language": self.ad_config.ad_details["language"].get(),
-            "checkboxes": [k for k, v in self.ad_config.ad_details["checkboxes"].items() if v.get()]
+            "checkboxes": [k for k, v in self.ad_config.ad_details["checkboxes"].items() if v.get()],
+            "images": self.ad_config.image_paths  # Add image paths
         }
+
         self.log_console.insert(f"[INFO] Attempting to post ad: {self.ad_config.title_entry.get()}\n")
         success = self.bot.post_ad(
+            selected_account,
             title=self.ad_config.title_entry.get(),
             description=self.ad_config.description_text.get("1.0", tk.END).strip(),
             category="fso",
@@ -125,8 +155,9 @@ class CraigslistBotGUI:
             location=self.ad_config.location_entry.get(),
             ad_details=ad_details
         )
+
         if success:
-            self.log_console.insert(f"[✓] Ad posted successfully with account: {self.account_manager.selected_account.get()}\n")
+            self.log_console.insert(f"[✓] Ad posted successfully with account: {selected_account}\n")
         else:
             self.log_console.insert("[ERROR] Failed to post ad\n")
             messagebox.showerror("Error", "Failed to post ad")
