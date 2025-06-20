@@ -4,7 +4,7 @@
     "max_wait": 5
   },
   "gemini": {
-    "api_key": "AIzaSyAwUiM9Jo3ARkQ_8U0kXvE7typBvPe4KSY"
+    "api_key": "" // Use your API key
   },
   "browser": {
     "headless": false
